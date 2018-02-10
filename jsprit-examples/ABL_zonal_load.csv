@@ -1,0 +1,10 @@
+Type,concat,src_lat,src_long,dest_lat,dest_long,MH,DH/PH,Ready_time,Load
+Shipment,MotherHub_ABL-ChandigarhHub_DEL,30.396612,76.8116,30.7089676,76.8031809,MotherHub_ABL,ChandigarhHub_DEL,72000,1138
+Shipment,MotherHub_ABL-GobindgarhHub_LUH,30.396612,76.8116,30.659566,76.300198,MotherHub_ABL,GobindgarhHub_LUH,72000,342
+Shipment,MotherHub_ABL-GurdaspurHub_GDS,30.396612,76.8116,32.03059,75.392885,MotherHub_ABL,GurdaspurHub_GDS,72000,251
+Shipment,MotherHub_ABL-HoshiarpurHub_HAP,30.396612,76.8116,31.5199815,75.9261826,MotherHub_ABL,HoshiarpurHub_HAP,72000,247
+Shipment,MotherHub_ABL-MohaliHub_IXC,30.396612,76.8116,30.711382,76.692488,MotherHub_ABL,MohaliHub_IXC,72000,860
+Shipment,MotherHub_ABL-PanchkulaHub_PKL,30.396612,76.8116,30.683538,76.830649,MotherHub_ABL,PanchkulaHub_PKL,72000,758
+Shipment,MotherHub_ABL-PatialaHub_PTA,30.396612,76.8116,30.335038,76.4062069,MotherHub_ABL,PatialaHub_PTA,72000,673
+Shipment,MotherHub_ABL-RupnagarHub_RUP,30.396612,76.8116,30.952567,76.506966,MotherHub_ABL,RupnagarHub_RUP,72000,229
+Shipment,MotherHub_ABL-ShimlaHub_SHM,30.396612,76.8116,31.074597,77.182889,MotherHub_ABL,ShimlaHub_SHM,72000,519

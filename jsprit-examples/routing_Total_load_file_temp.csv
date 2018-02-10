@@ -1,0 +1,4 @@
+item,id,src_lat,src_long,dest_lat,des_long,source_name,destination_name,Load,Service,LPHT,SLA
+Shipments,MotherHub_MED_MotherHub_PAT_ECO,17.580668,78.469767,25.585908,85.182063,MotherHub_MED,MotherHub_PAT,200,ECO,10,100000
+Shipments,MotherHub_MED_MotherHub_MUM_REG,17.580668,78.469767,19.080923,72.879793,MotherHub_MED,MotherHub_MUM,179,REG,10,1000
+Shipments,MotherHub_MED_MotherHub_PTI_ECO,17.580668,78.469767,28.307612,76.81791,MotherHub_MED,MotherHub_PTI,280,ECO,10,100000

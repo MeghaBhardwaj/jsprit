@@ -1,0 +1,62 @@
+ vehicle              , activity              , job             , arrTime         , endTime         , costs           ,
+,,,,,,
+1, 6-MotherHub_MED-28   , start                 , -               , undef           ,0,0
+1, 6-MotherHub_MED-28   , pickupShipment        , MotherHub_MED-KurnoolHub_KRN ,0,0,0
+1, 6-MotherHub_MED-28   , pickupShipment        , MotherHub_MED-BiwiNagarHub_NLR ,0,0,0
+1, 6-MotherHub_MED-28   , pickupShipment        , MotherHub_MED-SrikalahastiHub_SKH ,0,0,0
+1, 6-MotherHub_MED-28   , pickupShipment        , MotherHub_MED-KadapaHub_KDP ,0,0,0
+1, 6-MotherHub_MED-28   , pickupShipment        , MotherHub_MED-MahbubnagarHub_MBN ,0,0,0
+1, 6-MotherHub_MED-28   , pickupShipment        , MotherHub_MED-TenaliHub_TNL ,0,0,0
+1, 6-MotherHub_MED-28   , pickupShipment        , MotherHub_MED-VijayawadaHub_VJA ,0,0,0
+1, 6-MotherHub_MED-28   , pickupShipment        , MotherHub_MED-SitaramNagarHub_GTR ,0,0,0
+1, 6-MotherHub_MED-28   , pickupShipment        , MotherHub_MED-VikarabadHub_VKB ,0,0,0
+1, 6-MotherHub_MED-28   , pickupShipment        , MotherHub_MED-EluruHub_ELU ,0,0,0
+1, 6-MotherHub_MED-28   , pickupShipment        , MotherHub_MED-OngoleHub_ONG ,0,0,0
+1, 6-MotherHub_MED-28   , deliverShipment       , MotherHub_MED-VikarabadHub_VKB ,5762,5762,2586071
+1, 6-MotherHub_MED-28   , deliverShipment       , MotherHub_MED-MahbubnagarHub_MBN ,11761,11761,5278493
+1, 6-MotherHub_MED-28   , deliverShipment       , MotherHub_MED-KurnoolHub_KRN ,20680,20680,9281179
+1, 6-MotherHub_MED-28   , deliverShipment       , MotherHub_MED-KadapaHub_KDP ,35977,35977,16146676
+1, 6-MotherHub_MED-28   , deliverShipment       , MotherHub_MED-SrikalahastiHub_SKH ,46631,46631,20928201
+1, 6-MotherHub_MED-28   , deliverShipment       , MotherHub_MED-BiwiNagarHub_NLR ,53716,53716,24107736
+1, 6-MotherHub_MED-28   , deliverShipment       , MotherHub_MED-OngoleHub_ONG ,64514,64514,28953814
+1, 6-MotherHub_MED-28   , deliverShipment       , MotherHub_MED-SitaramNagarHub_GTR ,73220,73220,32861015
+1, 6-MotherHub_MED-28   , deliverShipment       , MotherHub_MED-TenaliHub_TNL ,75133,75133,33719793
+1, 6-MotherHub_MED-28   , deliverShipment       , MotherHub_MED-VijayawadaHub_VJA ,77919,77919,34970146
+1, 6-MotherHub_MED-28   , deliverShipment       , MotherHub_MED-EluruHub_ELU ,82092,82092,36842888
+1, 6-MotherHub_MED-28   , end                   , -               ,82092, undef           ,36842888
+,,,,,,
+2, 6-MotherHub_MED-32   , start                 , -               , undef           ,0,0
+2, 6-MotherHub_MED-32   , pickupShipment        , MotherHub_MED-NalgondaHub_NGD ,0,0,0
+2, 6-MotherHub_MED-32   , pickupShipment        , MotherHub_MED-AmalapuramHub_AMP ,0,0,0
+2, 6-MotherHub_MED-32   , pickupShipment        , MotherHub_MED-KhammamHub_KHM ,0,0,0
+2, 6-MotherHub_MED-32   , pickupShipment        , MotherHub_MED-TanukuHub_TKU ,0,0,0
+2, 6-MotherHub_MED-32   , pickupShipment        , MotherHub_MED-VizianagaramHub_VZM ,0,0,0
+2, 6-MotherHub_MED-32   , pickupShipment        , MotherHub_MED-RajahmundryHub_RJY ,0,0,0
+2, 6-MotherHub_MED-32   , pickupShipment        , MotherHub_MED-KakinadaHub_KKD ,0,0,0
+2, 6-MotherHub_MED-32   , pickupShipment        , MotherHub_MED-VisakhavalleyHub_VTZ ,0,0,0
+2, 6-MotherHub_MED-32   , pickupShipment        , MotherHub_MED-VisakhapatnamHub_VTZ ,0,0,0
+2, 6-MotherHub_MED-32   , pickupShipment        , MotherHub_MED-BhimavaramHub_BVM ,0,0,0
+2, 6-MotherHub_MED-32   , pickupShipment        , MotherHub_MED-GajuwakaHub_VTZ ,0,0,0
+2, 6-MotherHub_MED-32   , pickupShipment        , MotherHub_MED-SrikakulamHub_SKM ,0,0,0
+2, 6-MotherHub_MED-32   , deliverShipment       , MotherHub_MED-NalgondaHub_NGD ,9131,9131,4140512
+2, 6-MotherHub_MED-32   , deliverShipment       , MotherHub_MED-KhammamHub_KHM ,17712,17712,8031878
+2, 6-MotherHub_MED-32   , deliverShipment       , MotherHub_MED-BhimavaramHub_BVM ,32337,32337,14663481
+2, 6-MotherHub_MED-32   , deliverShipment       , MotherHub_MED-TanukuHub_TKU ,34898,34898,15825000
+2, 6-MotherHub_MED-32   , deliverShipment       , MotherHub_MED-RajahmundryHub_RJY ,37534,37534,17020133
+2, 6-MotherHub_MED-32   , deliverShipment       , MotherHub_MED-AmalapuramHub_AMP ,42246,42246,19157016
+2, 6-MotherHub_MED-32   , deliverShipment       , MotherHub_MED-KakinadaHub_KKD ,46946,46946,21288335
+2, 6-MotherHub_MED-32   , deliverShipment       , MotherHub_MED-GajuwakaHub_VTZ ,58122,58122,26356273
+2, 6-MotherHub_MED-32   , deliverShipment       , MotherHub_MED-VisakhapatnamHub_VTZ ,58359,58359,26463686
+2, 6-MotherHub_MED-32   , deliverShipment       , MotherHub_MED-VisakhavalleyHub_VTZ ,58359,58359,26463686
+2, 6-MotherHub_MED-32   , deliverShipment       , MotherHub_MED-VizianagaramHub_VZM ,62797,62797,28475980
+2, 6-MotherHub_MED-32   , deliverShipment       , MotherHub_MED-SrikakulamHub_SKM ,67827,67827,30756864
+2, 6-MotherHub_MED-32   , end                   , -               ,67827, undef           ,30756864
+,,,,,,
+3, 7-MotherHub_MED-14   , start                 , -               , undef           ,0,0
+3, 7-MotherHub_MED-14   , pickupShipment        , MotherHub_MED-NizamabadHub_NZB ,0,0,0
+3, 7-MotherHub_MED-14   , pickupShipment        , MotherHub_MED-HanamkondaHub_WGL ,0,0,0
+3, 7-MotherHub_MED-14   , pickupShipment        , MotherHub_MED-KarimnagarHub_KMN ,0,0,0
+3, 7-MotherHub_MED-14   , deliverShipment       , MotherHub_MED-NizamabadHub_NZB ,9925,9925,4102737
+3, 7-MotherHub_MED-14   , deliverShipment       , MotherHub_MED-KarimnagarHub_KMN ,18740,18740,7746795
+3, 7-MotherHub_MED-14   , deliverShipment       , MotherHub_MED-HanamkondaHub_WGL ,23860,23860,9863128
+3, 7-MotherHub_MED-14   , end                   , -               ,23860, undef           ,9863128

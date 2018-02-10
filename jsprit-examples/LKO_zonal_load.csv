@@ -1,0 +1,8 @@
+Type,concat,src_lat,src_long,dest_lat,dest_long,MH,DH/PH,ready_time,Load
+Shipment,MotherHub_LKO-AllahabadHub_ALD,26.755912,80.910939,25.462258,81.824071,MotherHub_LKO,AllahabadHub_ALD,72000,1050
+Shipment,MotherHub_LKO-AzamgarhHub_AZM,26.755912,80.910939,26.073757,83.170997,MotherHub_LKO,AzamgarhHub_AZM,72000,193
+Shipment,MotherHub_LKO-GeorgeTownHub_ALD,26.755912,80.910939,25.449615,81.859503,MotherHub_LKO,GeorgeTownHub_ALD,72000,793
+Shipment,MotherHub_LKO-GumtiHub_KNU,26.755912,80.910939,26.449935,80.331861,MotherHub_LKO,GumtiHub_KNU,72000,1464
+Shipment,MotherHub_LKO-MedicalRoadHub_GOP,26.755912,80.910939,26.808722,83.3955019,MotherHub_LKO,MedicalRoadHub_GOP,72000,911
+Shipment,MotherHub_LKO-OrderlyBazarHub_VNS,26.755912,80.910939,25.352635,82.983728,MotherHub_LKO,OrderlyBazarHub_VNS,72000,822
+Shipment,MotherHub_LKO-SigraHub_VNS,26.755912,80.910939,25.303391,82.981454,MotherHub_LKO,SigraHub_VNS,72000,1152

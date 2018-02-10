@@ -1,0 +1,69 @@
+ route   , vehicle              , activity              , job             , arrTime         , endTime         , costs           
+,,,,,,
+1, 5-MOTHERHUB_GAU-17   , start                 , -               , undef           ,0,0
+1, 5-MOTHERHUB_GAU-17   , pickupShipment        , MOTHERHUB_GAU-JORHATHUB_JRH ,0,76575,0
+1, 5-MOTHERHUB_GAU-17   , deliverShipment       , MOTHERHUB_GAU-JORHATHUB_JRH ,104816,107516,10166783
+1, 5-MOTHERHUB_GAU-17   , end                   , -               ,107516, undef           ,10166783
+,,,,,,
+2, 6-MOTHERHUB_GAU-17   , start                 , -               , undef           ,0,0
+2, 6-MOTHERHUB_GAU-17   , pickupShipment        , MOTHERHUB_GAU-NAGAONHUB_NGN ,0,76199,0
+2, 6-MOTHERHUB_GAU-17   , pickupShipment        , MOTHERHUB_GAU-SIBSAGARHUB_SBS ,76199,76766,0
+2, 6-MOTHERHUB_GAU-17   , pickupShipment        , MOTHERHUB_GAU-SIBSAGARCLAWBACKHUB_SBS ,76766,77161,0
+2, 6-MOTHERHUB_GAU-17   , deliverShipment       , MOTHERHUB_GAU-NAGAONHUB_NGN ,90621,93321,4845567
+2, 6-MOTHERHUB_GAU-17   , deliverShipment       , MOTHERHUB_GAU-SIBSAGARCLAWBACKHUB_SBS ,113956,116656,12274328
+2, 6-MOTHERHUB_GAU-17   , deliverShipment       , MOTHERHUB_GAU-SIBSAGARHUB_SBS ,116657,119357,12274518
+2, 6-MOTHERHUB_GAU-17   , end                   , -               ,119357, undef           ,12274518
+,,,,,,
+3, 7-MOTHERHUB_GAU-17   , start                 , -               , undef           ,0,0
+3, 7-MOTHERHUB_GAU-17   , pickupShipment        , MOTHERHUB_GAU-ITANAGARHUB_ITO ,0,76131,0
+3, 7-MOTHERHUB_GAU-17   , pickupShipment        , MOTHERHUB_GAU-DIBRUGARHHUB_DIB ,76131,76869,0
+3, 7-MOTHERHUB_GAU-17   , deliverShipment       , MOTHERHUB_GAU-ITANAGARHUB_ITO ,100281,102981,8428297
+3, 7-MOTHERHUB_GAU-17   , deliverShipment       , MOTHERHUB_GAU-DIBRUGARHHUB_DIB ,118362,121062,13965462
+3, 7-MOTHERHUB_GAU-17   , end                   , -               ,121062, undef           ,13965462
+,,,,,,
+4, 8-MOTHERHUB_GAU-17   , start                 , -               , undef           ,0,0
+4, 8-MOTHERHUB_GAU-17   , pickupShipment        , MOTHERHUB_GAU-GOALPARAHUB_GLP ,0,76027,0
+4, 8-MOTHERHUB_GAU-17   , pickupShipment        , MOTHERHUB_GAU-HOWLYHUB_BPR ,76027,76548,0
+4, 8-MOTHERHUB_GAU-17   , pickupShipment        , MOTHERHUB_GAU-BONGAIGAONHUB_BGG ,76548,77142,0
+4, 8-MOTHERHUB_GAU-17   , deliverShipment       , MOTHERHUB_GAU-HOWLYHUB_BPR ,86214,88914,3266107
+4, 8-MOTHERHUB_GAU-17   , deliverShipment       , MOTHERHUB_GAU-BONGAIGAONHUB_BGG ,93801,96501,5025447
+4, 8-MOTHERHUB_GAU-17   , deliverShipment       , MOTHERHUB_GAU-GOALPARAHUB_GLP ,100673,103373,6527379
+4, 8-MOTHERHUB_GAU-17   , end                   , -               ,103373, undef           ,6527379
+,,,,,,
+5, 5-MOTHERHUB_GAU-20   , start                 , -               , undef           ,0,0
+5, 5-MOTHERHUB_GAU-20   , pickupShipment        , MOTHERHUB_GAU-SILCHARHUB_IXS ,0,76312,0
+5, 5-MOTHERHUB_GAU-20   , pickupShipment        , MOTHERHUB_GAU-AIZAWLHUB_AJL ,76312,77033,0
+5, 5-MOTHERHUB_GAU-20   , deliverShipment       , MOTHERHUB_GAU-SILCHARHUB_IXS ,97403,100103,7259966
+5, 5-MOTHERHUB_GAU-20   , deliverShipment       , MOTHERHUB_GAU-AIZAWLHUB_AJL ,114655,117355,12446376
+5, 5-MOTHERHUB_GAU-20   , end                   , -               ,117355, undef           ,12446376
+,,,,,,
+6, 6-MOTHERHUB_GAU-20   , start                 , -               , undef           ,0,0
+6, 6-MOTHERHUB_GAU-20   , pickupShipment        , MOTHERHUB_GAU-TEZPURHUB_TZR ,0,76243,0
+6, 6-MOTHERHUB_GAU-20   , pickupShipment        , MOTHERHUB_GAU-NORTHLAKHIMPURHUB_NLP ,76243,76910,0
+6, 6-MOTHERHUB_GAU-20   , pickupShipment        , MOTHERHUB_GAU-NAHARLAGUNHUB_NHL ,76910,77380,0
+6, 6-MOTHERHUB_GAU-20   , deliverShipment       , MOTHERHUB_GAU-TEZPURHUB_TZR ,92281,94981,5310801
+6, 6-MOTHERHUB_GAU-20   , deliverShipment       , MOTHERHUB_GAU-NAHARLAGUNHUB_NHL ,107262,109962,9687720
+6, 6-MOTHERHUB_GAU-20   , deliverShipment       , MOTHERHUB_GAU-NORTHLAKHIMPURHUB_NLP ,114968,117668,11471796
+6, 6-MOTHERHUB_GAU-20   , end                   , -               ,117668, undef           ,11471796
+,,,,,,
+7, 9-MOTHERHUB_GAU-20   , start                 , -               , undef           ,0,0
+7, 9-MOTHERHUB_GAU-20   , pickupShipment        , MOTHERHUB_GAU-SHILLONGHUB_SHL ,0,76489,0
+7, 9-MOTHERHUB_GAU-20   , deliverShipment       , MOTHERHUB_GAU-SHILLONGHUB_SHL ,83104,85804,2357494
+7, 9-MOTHERHUB_GAU-20   , end                   , -               ,85804, undef           ,2357494
+,,,,,,
+8, 0-MOTHERHUB_GAU-14   , start                 , -               , undef           ,0,0
+8, 0-MOTHERHUB_GAU-14   , pickupShipment        , MOTHERHUB_GAU-AGARTALAHUB_IXA ,0,76242,0
+8, 0-MOTHERHUB_GAU-14   , deliverShipment       , MOTHERHUB_GAU-AGARTALAHUB_IXA ,103267,105967,9340070
+8, 0-MOTHERHUB_GAU-14   , end                   , -               ,105967, undef           ,9340070
+,,,,,,
+9, 2-MOTHERHUB_GAU-14   , start                 , -               , undef           ,0,0
+9, 2-MOTHERHUB_GAU-14   , pickupShipment        , MOTHERHUB_GAU-DULIAJANHUB_DLN ,0,76144,0
+9, 2-MOTHERHUB_GAU-14   , deliverShipment       , MOTHERHUB_GAU-DULIAJANHUB_DLN ,118139,120839,14513510
+9, 2-MOTHERHUB_GAU-14   , end                   , -               ,120839, undef           ,14513510
+,,,,,,
+10, 7-MOTHERHUB_GAU-14   , start                 , -               , undef           ,0,0
+10, 7-MOTHERHUB_GAU-14   , pickupShipment        , MOTHERHUB_GAU-GANGTOKHUB_GGT ,0,76223,0
+10, 7-MOTHERHUB_GAU-14   , pickupShipment        , MOTHERHUB_GAU-RANGPOHUB_RNG ,76223,76638,0
+10, 7-MOTHERHUB_GAU-14   , deliverShipment       , MOTHERHUB_GAU-GANGTOKHUB_GGT ,113426,116126,12713787
+10, 7-MOTHERHUB_GAU-14   , deliverShipment       , MOTHERHUB_GAU-RANGPOHUB_RNG ,117920,120620,13333922
+10, 7-MOTHERHUB_GAU-14   , end                   , -               ,120620, undef           ,13333922

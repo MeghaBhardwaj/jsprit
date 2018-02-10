@@ -1,0 +1,5 @@
+item,id,src_lat,src_long,dest_lat,des_long,source_name,destination_name,Load
+Shipments,MotherHub_MED_MotherHub_PAT,17.580668,78.469767,25.585908,85.182063,MotherHub_MED,MotherHub_PAT,372
+Shipments,MotherHub_STV_MotherHub_CJB,21.088983,72.915352,11.062704,77.090434,MotherHub_STV,MotherHub_CJB,120
+Shipments,MotherHub_PTD_MotherHub_JAI,28.300608,76.820188,26.948758,75.762015,MotherHub_PTD,MotherHub_JAI,115
+Shipments,MotherHub_IDR_MotherHub_PAT,22.768738,75.903691,25.585908,85.182063,MotherHub_IDR,MotherHub_PAT,10

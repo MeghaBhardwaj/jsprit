@@ -1,0 +1,13 @@
+Type,concal,src_lat,src_long,dest_lat,dest_long,MH,DH/PH,Ready_time,Load
+Shipment,MotherHub_JAI-AjmerHub_AJM,26.948928,75.761927,26.473342,74.613093,MotherHub_JAI,AjmerHub_AJM,72000,513
+Shipment,MotherHub_JAI-AlwarHub_ALW,26.948928,75.761927,27.559011,76.611801,MotherHub_JAI,AlwarHub_ALW,72000,341
+Shipment,MotherHub_JAI-BharatpurHub_BTP,26.948928,75.761927,27.22137,77.483628,MotherHub_JAI,BharatpurHub_BTP,72000,197
+Shipment,MotherHub_JAI-BhilwaraHub_BLW,26.948928,75.761927,25.342893,74.621331,MotherHub_JAI,BhilwaraHub_BLW,72000,314
+Shipment,MotherHub_JAI-BikanerHub_BKB,26.948928,75.761927,28.016302,73.322003,MotherHub_JAI,BikanerHub_BKB,72000,549
+Shipment,MotherHub_JAI-JhunjhunuHub_JNJ,26.948928,75.761927,28.122801,75.382531,MotherHub_JAI,JhunjhunuHub_JNJ,72000,173
+Shipment,MotherHub_JAI-JodhpurHub_JDH,26.948928,75.761927,26.262982,72.958375,MotherHub_JAI,JodhpurHub_JDH,72000,1178
+Shipment,MotherHub_JAI-KotaHub_KTU,26.948928,75.761927,25.12776,75.851217,MotherHub_JAI,KotaHub_KTU,72000,936
+Shipment,MotherHub_JAI-PilaniHub_PIL,26.948928,75.761927,28.364591,75.595035,MotherHub_JAI,PilaniHub_PIL,72000,226
+Shipment,MotherHub_JAI-SikarHub_SIK,26.948928,75.761927,27.602355,75.146414,MotherHub_JAI,SikarHub_SIK,72000,287
+Shipment,MotherHub_JAI-SriGanganagarHub_SGN,26.948928,75.761927,29.9077666,73.8765929,MotherHub_JAI,SriGanganagarHub_SGN,72000,382
+Shipment,MotherHub_JAI-UdaipurHub_UDR,26.948928,75.761927,24.608698,73.68845,MotherHub_JAI,UdaipurHub_UDR,72000,736

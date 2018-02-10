@@ -1,0 +1,147 @@
++----------------------------------------------------------+
+| solution                                                 |
++---------------+------------------------------------------+
+| indicator     | value                                    |
++---------------+------------------------------------------+
+| costs         | 9916449.155121457                        | 
+| noVehicles    | 5                                        | 
+| unassgndJobs  | 0                                        | 
++----------------------------------------------------------+
++--------------------------------------------------------------------------------------------------------------------------------+
+| detailed solution                                                                                                              |
++---------+----------------------+-----------------------+-----------------+-----------------+-----------------+-----------------+
+| route   | vehicle              | activity              | job             | arrTime         | endTime         | costs           |
++---------+----------------------+-----------------------+-----------------+-----------------+-----------------+-----------------+
+| 1       | 5-MotherHub_KNG-28   | start                 | -               | undef           | 0               | 0               |
+| 1       | 5-MotherHub_KNG-28   | pickupShipment        | MotherHub_KNG-OotyHub_OTY | 0               | 0               | 0               |
+| 1       | 5-MotherHub_KNG-28   | pickupShipment        | MotherHub_BLR-OotyHub_OTY | 717             | 717             | 43902           |
+| 1       | 5-MotherHub_KNG-28   | pickupShipment        | MotherHub_BLR-CalicutHub_CCJ | 717             | 717             | 43902           |
+| 1       | 5-MotherHub_KNG-28   | pickupShipment        | MotherHub_BLR-ThalasseryHub_THL | 717             | 717             | 43902           |
+| 1       | 5-MotherHub_KNG-28   | pickupShipment        | MotherHub_BLR-PalakkadHub_PKD | 717             | 717             | 43902           |
+| 1       | 5-MotherHub_KNG-28   | pickupShipment        | MotherHub_BLR-KunnamangalamHub_KNM | 717             | 717             | 43902           |
+| 1       | 5-MotherHub_KNG-28   | pickupShipment        | MotherHub_BLR-KannurHub_KAN | 717             | 717             | 43902           |
+| 1       | 5-MotherHub_KNG-28   | pickupShipment        | MotherHub_BLR-MalaPuramHub_MLP | 717             | 717             | 43902           |
+| 1       | 5-MotherHub_KNG-28   | deliverShipment       | MotherHub_BLR-OotyHub_OTY | 13316           | 13316           | 814962          |
+| 1       | 5-MotherHub_KNG-28   | deliverShipment       | MotherHub_KNG-OotyHub_OTY | 13316           | 13316           | 814962          |
+| 1       | 5-MotherHub_KNG-28   | deliverShipment       | MotherHub_BLR-PalakkadHub_PKD | 17376           | 17376           | 1063422         |
+| 1       | 5-MotherHub_KNG-28   | deliverShipment       | MotherHub_BLR-MalaPuramHub_MLP | 21829           | 21829           | 1335951         |
+| 1       | 5-MotherHub_KNG-28   | deliverShipment       | MotherHub_BLR-KunnamangalamHub_KNM | 23425           | 23425           | 1433625         |
+| 1       | 5-MotherHub_KNG-28   | deliverShipment       | MotherHub_BLR-CalicutHub_CCJ | 24121           | 24121           | 1476176         |
+| 1       | 5-MotherHub_KNG-28   | deliverShipment       | MotherHub_BLR-ThalasseryHub_THL | 27845           | 27845           | 1704133         |
+| 1       | 5-MotherHub_KNG-28   | deliverShipment       | MotherHub_BLR-KannurHub_KAN | 29151           | 29151           | 1784013         |
+| 1       | 5-MotherHub_KNG-28   | end                   | -               | 29151           | undef           | 1784013         |
++---------+----------------------+-----------------------+-----------------+-----------------+-----------------+-----------------+
+| 2       | 5-MotherHub_KNG-32   | start                 | -               | undef           | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-KumbakonamHub_TNJ | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-NagercoilHub_NGL | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-CuddaloreHub_CDL | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-LawspetHub_PDY | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-ThirunelveliHub_TVL | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-KanchipuramHub_KCH | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-MaduraiHub_IXM | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-SivakasiHub_SVK | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-PudukottaiHub_PDK | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-TrichyHub_TRZ | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-TuticorinHub_TUT | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-KaraikudiHub_KRK | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-ThanjavurHub_TNJ | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-DindigulHub_DND | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-ChidambaramHub_CDM | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_KNG-VelloreHub_VLR | 0               | 0               | 0               |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-MaduraiHub_IXM | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-KumbakonamHub_TNJ | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-KaraikudiHub_KRK | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-ChidambaramHub_CDM | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-TrichyHub_TRZ | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-CuddaloreHub_CDL | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-ThirunelveliHub_TVL | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-PudukottaiHub_PDK | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-VelloreHub_VLR | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-DindigulHub_DND | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-ChittoorHub_COR | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-ThanjavurHub_TNJ | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-SivakasiHub_SVK | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-TuticorinHub_TUT | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-LawspetHub_PDY | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-KanchipuramHub_KCH | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | pickupShipment        | MotherHub_BLR-NagercoilHub_NGL | 717             | 717             | 43902           |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-ChittoorHub_COR | 8860            | 8860            | 542247          |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-VelloreHub_VLR | 10453           | 10453           | 639723          |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-VelloreHub_VLR | 10453           | 10453           | 639723          |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-KanchipuramHub_KCH | 14194           | 14194           | 868681          |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-KanchipuramHub_KCH | 14194           | 14194           | 868681          |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-LawspetHub_PDY | 19936           | 19936           | 1220090         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-LawspetHub_PDY | 19936           | 19936           | 1220090         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-CuddaloreHub_CDL | 21458           | 21458           | 1313222         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-CuddaloreHub_CDL | 21458           | 21458           | 1313222         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-ChidambaramHub_CDM | 23751           | 23751           | 1453533         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-ChidambaramHub_CDM | 23751           | 23751           | 1453533         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-KumbakonamHub_TNJ | 27115           | 27115           | 1659441         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-KumbakonamHub_TNJ | 27115           | 27115           | 1659441         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-ThanjavurHub_TNJ | 29292           | 29292           | 1792656         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-ThanjavurHub_TNJ | 29292           | 29292           | 1792656         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-TrichyHub_TRZ | 32152           | 32152           | 1967696         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-TrichyHub_TRZ | 32152           | 32152           | 1967696         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-PudukottaiHub_PDK | 35134           | 35134           | 2150197         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-PudukottaiHub_PDK | 35134           | 35134           | 2150197         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-KaraikudiHub_KRK | 37657           | 37657           | 2304634         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-KaraikudiHub_KRK | 37657           | 37657           | 2304634         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-DindigulHub_DND | 42313           | 42313           | 2589579         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-DindigulHub_DND | 42313           | 42313           | 2589579         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-MaduraiHub_IXM | 45323           | 45323           | 2773745         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-MaduraiHub_IXM | 45323           | 45323           | 2773745         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-SivakasiHub_SVK | 48895           | 48895           | 2992385         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-SivakasiHub_SVK | 48895           | 48895           | 2992385         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-TuticorinHub_TUT | 53713           | 53713           | 3287229         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-TuticorinHub_TUT | 53713           | 53713           | 3287229         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-ThirunelveliHub_TVL | 56448           | 56448           | 3454644         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-ThirunelveliHub_TVL | 56448           | 56448           | 3454644         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_KNG-NagercoilHub_NGL | 60450           | 60450           | 3699563         |
+| 2       | 5-MotherHub_KNG-32   | deliverShipment       | MotherHub_BLR-NagercoilHub_NGL | 60450           | 60450           | 3699563         |
+| 2       | 5-MotherHub_KNG-32   | end                   | -               | 60450           | undef           | 3699563         |
++---------+----------------------+-----------------------+-----------------+-----------------+-----------------+-----------------+
+| 3       | 7-MotherHub_KNG-14   | start                 | -               | undef           | 0               | 0               |
+| 3       | 7-MotherHub_KNG-14   | pickupShipment        | MotherHub_KNG-ErodeHub_ERD | 0               | 0               | 0               |
+| 3       | 7-MotherHub_KNG-14   | pickupShipment        | MotherHub_KNG-PallipalayamHub_ERD | 0               | 0               | 0               |
+| 3       | 7-MotherHub_KNG-14   | pickupShipment        | MotherHub_KNG-SalemHub_SXV | 0               | 0               | 0               |
+| 3       | 7-MotherHub_KNG-14   | pickupShipment        | MotherHub_KNG-KarurHub_KAU | 0               | 0               | 0               |
+| 3       | 7-MotherHub_KNG-14   | pickupShipment        | MotherHub_BLR-KarurHub_KAU | 642             | 642             | 43902           |
+| 3       | 7-MotherHub_KNG-14   | pickupShipment        | MotherHub_BLR-PallipalayamHub_ERD | 642             | 642             | 43902           |
+| 3       | 7-MotherHub_KNG-14   | pickupShipment        | MotherHub_BLR-SapthagiriHub_TPT | 642             | 642             | 43902           |
+| 3       | 7-MotherHub_KNG-14   | pickupShipment        | MotherHub_BLR-ErodeHub_ERD | 642             | 642             | 43902           |
+| 3       | 7-MotherHub_KNG-14   | pickupShipment        | MotherHub_BLR-HosurHub_HOS | 642             | 642             | 43902           |
+| 3       | 7-MotherHub_KNG-14   | pickupShipment        | MotherHub_BLR-SalemHub_SXV | 642             | 642             | 43902           |
+| 3       | 7-MotherHub_KNG-14   | deliverShipment       | MotherHub_BLR-HosurHub_HOS | 2160            | 2160            | 147747          |
+| 3       | 7-MotherHub_KNG-14   | deliverShipment       | MotherHub_KNG-SalemHub_SXV | 8604            | 8604            | 588497          |
+| 3       | 7-MotherHub_KNG-14   | deliverShipment       | MotherHub_BLR-SalemHub_SXV | 8604            | 8604            | 588497          |
+| 3       | 7-MotherHub_KNG-14   | deliverShipment       | MotherHub_BLR-KarurHub_KAU | 12776           | 12776           | 873874          |
+| 3       | 7-MotherHub_KNG-14   | deliverShipment       | MotherHub_KNG-KarurHub_KAU | 12776           | 12776           | 873874          |
+| 3       | 7-MotherHub_KNG-14   | deliverShipment       | MotherHub_KNG-PallipalayamHub_ERD | 15807           | 15807           | 1081167         |
+| 3       | 7-MotherHub_KNG-14   | deliverShipment       | MotherHub_BLR-PallipalayamHub_ERD | 15807           | 15807           | 1081167         |
+| 3       | 7-MotherHub_KNG-14   | deliverShipment       | MotherHub_KNG-ErodeHub_ERD | 16218           | 16218           | 1109331         |
+| 3       | 7-MotherHub_KNG-14   | deliverShipment       | MotherHub_BLR-ErodeHub_ERD | 16218           | 16218           | 1109331         |
+| 3       | 7-MotherHub_KNG-14   | deliverShipment       | MotherHub_BLR-SapthagiriHub_TPT | 19051           | 19051           | 1303055         |
+| 3       | 7-MotherHub_KNG-14   | end                   | -               | 19051           | undef           | 1303055         |
++---------+----------------------+-----------------------+-----------------+-----------------+-----------------+-----------------+
+| 4       | 1-MotherHub_BLR-22   | start                 | -               | undef           | 0               | 0               |
+| 4       | 1-MotherHub_BLR-22   | pickupShipment        | MotherHub_BLR-AnanthapurHub_ATP | 0               | 0               | 0               |
+| 4       | 1-MotherHub_BLR-22   | deliverShipment       | MotherHub_BLR-AnanthapurHub_ATP | 9949            | 9949            | 680521          |
+| 4       | 1-MotherHub_BLR-22   | end                   | -               | 9949            | undef           | 680521          |
++---------+----------------------+-----------------------+-----------------+-----------------+-----------------+-----------------+
+| 5       | 6-MotherHub_BLR-28   | start                 | -               | undef           | 0               | 0               |
+| 5       | 6-MotherHub_BLR-28   | pickupShipment        | MotherHub_BLR-DavanagereHub_DVG | 0               | 0               | 0               |
+| 5       | 6-MotherHub_BLR-28   | pickupShipment        | MotherHub_BLR-HassanHub_HSN | 0               | 0               | 0               |
+| 5       | 6-MotherHub_BLR-28   | pickupShipment        | MotherHub_BLR-HubliHub_HBX | 0               | 0               | 0               |
+| 5       | 6-MotherHub_BLR-28   | pickupShipment        | MotherHub_KNG-MangaloreHub_IXE | 717             | 717             | 43902           |
+| 5       | 6-MotherHub_BLR-28   | pickupShipment        | MotherHub_KNG-HassanHub_HSN | 717             | 717             | 43902           |
+| 5       | 6-MotherHub_BLR-28   | pickupShipment        | MotherHub_KNG-ManipalHub_MPL | 717             | 717             | 43902           |
+| 5       | 6-MotherHub_BLR-28   | pickupShipment        | MotherHub_KNG-SurathkalHub_IXE | 717             | 717             | 43902           |
+| 5       | 6-MotherHub_BLR-28   | deliverShipment       | MotherHub_KNG-HassanHub_HSN | 11201           | 11201           | 685513          |
+| 5       | 6-MotherHub_BLR-28   | deliverShipment       | MotherHub_BLR-HassanHub_HSN | 11201           | 11201           | 685513          |
+| 5       | 6-MotherHub_BLR-28   | deliverShipment       | MotherHub_KNG-MangaloreHub_IXE | 19145           | 19145           | 1171684         |
+| 5       | 6-MotherHub_BLR-28   | deliverShipment       | MotherHub_KNG-SurathkalHub_IXE | 19639           | 19639           | 1201891         |
+| 5       | 6-MotherHub_BLR-28   | deliverShipment       | MotherHub_KNG-ManipalHub_MPL | 22026           | 22026           | 1348017         |
+| 5       | 6-MotherHub_BLR-28   | deliverShipment       | MotherHub_BLR-DavanagereHub_DVG | 32347           | 32347           | 1979630         |
+| 5       | 6-MotherHub_BLR-28   | deliverShipment       | MotherHub_BLR-HubliHub_HBX | 40021           | 40021           | 2449297         |
+| 5       | 6-MotherHub_BLR-28   | end                   | -               | 40021           | undef           | 2449297         |
++--------------------------------------------------------------------------------------------------------------------------------+

@@ -1,0 +1,128 @@
+ route   , vehicle              , activity              , job             , arrTime         , endTime         , costs           
+,,,,,,
+1, 4-MotherHub_BAM-24   , start                 , -               , undef           ,0,0
+1, 4-MotherHub_BAM-24   , pickupShipment        , MotherHub_BAM-AligarhHub_ALG ,0,0,0
+1, 4-MotherHub_BAM-24   , pickupShipment        , MotherHub_BAM-AgraHub_AGR ,0,0,0
+1, 4-MotherHub_BAM-24   , pickupShipment        , MotherHub_BAM-JhansiHub_JHS ,0,0,0
+1, 4-MotherHub_BAM-24   , pickupShipment        , MotherHub_BAM-FirozabadHub_FIR ,0,0,0
+1, 4-MotherHub_BAM-24   , pickupShipment        , MotherHub_BAM-PalwalHub_PLW ,0,0,0
+1, 4-MotherHub_BAM-24   , pickupShipment        , MotherHub_BAM-MeerutHub_MEE ,0,0,0
+1, 4-MotherHub_BAM-24   , pickupShipment        , MotherHub_BAM-MathuraHub_MTH ,0,0,0
+1, 4-MotherHub_BAM-24   , deliverShipment       , MotherHub_BAM-MeerutHub_MEE ,1895,1895,859419
+1, 4-MotherHub_BAM-24   , deliverShipment       , MotherHub_BAM-PalwalHub_PLW ,5287,5287,2397276
+1, 4-MotherHub_BAM-24   , deliverShipment       , MotherHub_BAM-AligarhHub_ALG ,11162,11162,5061124
+1, 4-MotherHub_BAM-24   , deliverShipment       , MotherHub_BAM-MathuraHub_MTH ,15667,15667,7103771
+1, 4-MotherHub_BAM-24   , deliverShipment       , MotherHub_BAM-AgraHub_AGR ,19172,19172,8692934
+1, 4-MotherHub_BAM-24   , deliverShipment       , MotherHub_BAM-FirozabadHub_FIR ,22501,22501,10202252
+1, 4-MotherHub_BAM-24   , deliverShipment       , MotherHub_BAM-JhansiHub_JHS ,37588,37588,17042783
+1, 4-MotherHub_BAM-24   , end                   , -               ,37588, undef           ,17042783
+,,,,,,
+2, 4-MotherHub_BAM-14   , start                 , -               , undef           ,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-MuzaffarnagarHub_MFN ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-AmritsarHub_ATQ ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-HaridwarHub_HRD ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-DehradunHub_DED ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-ShimlaHub_SHM ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-SrinagarHub_SRG ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-SonepatHub_SOP ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-AmbalaHub_UMB ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-GurdaspurHub_GDS ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-KaithalHub_KTL ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-ChandigarhHub_DEL ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-YamunaNagarHub_YNR ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-HoshiarpurHub_HAP ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-GobindgarhHub_LUH ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-PatialaHub_PTA ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-SaharanpurHub_SHP ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-KarnalHub_KAL ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-PhagwaraHub_PGR ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-RupnagarHub_RUP ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-PanchkulaHub_PKL ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-KurukshetraHub_KUR ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-MohaliHub_IXC ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-LudhianaHub_LUH ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-PanipatHub_PPT ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-JalandharHub_JLR ,0,0,0
+2, 4-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-JammuHub_IXJ ,0,0,0
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-SonepatHub_SOP ,3987,3987,1647999
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-PanipatHub_PPT ,7634,7634,3155612
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-KarnalHub_KAL ,10174,10174,4205783
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-SaharanpurHub_SHP ,14911,14911,6163770
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-MuzaffarnagarHub_MFN ,19332,19332,7991332
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-HaridwarHub_HRD ,24745,24745,10229063
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-DehradunHub_DED ,28133,28133,11629677
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-YamunaNagarHub_YNR ,33751,33751,13951969
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-AmbalaHub_UMB ,37403,37403,15461411
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-KurukshetraHub_KUR ,40529,40529,16753808
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-KaithalHub_KTL ,42579,42579,17601092
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-PatialaHub_PTA ,45989,45989,19010779
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-MohaliHub_IXC ,49938,49938,20643214
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-ChandigarhHub_DEL ,50773,50773,20988607
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-PanchkulaHub_PKL ,51078,51078,21114525
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-ShimlaHub_SHM ,55416,55416,22907831
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-RupnagarHub_RUP ,60612,60612,25055685
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-GobindgarhHub_LUH ,63619,63619,26298740
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-LudhianaHub_LUH ,67448,67448,27881653
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-PhagwaraHub_PGR ,70330,70330,29072752
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-HoshiarpurHub_HAP ,73347,73347,30320022
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-JalandharHub_JLR ,76172,76172,31487845
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-AmritsarHub_ATQ ,82638,82638,34160909
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-GurdaspurHub_GDS ,87797,87797,36293496
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-JammuHub_IXJ ,94591,94591,39101829
+2, 4-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-SrinagarHub_SRG ,106797,106797,44147492
+2, 4-MotherHub_BAM-14   , end                   , -               ,106797, undef           ,44147492
+,,,,,,
+3, 5-MotherHub_BAM-14   , start                 , -               , undef           ,0,0
+3, 5-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-NarnaulHub_NNL ,0,0,0
+3, 5-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-RewariHub_RWR ,0,0,0
+3, 5-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-RewariHub_RWR ,4370,4370,1806308
+3, 5-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-NarnaulHub_NNL ,8530,8530,3525983
+3, 5-MotherHub_BAM-14   , end                   , -               ,8530, undef           ,3525983
+,,,,,,
+4, 7-MotherHub_BAM-14   , start                 , -               , undef           ,0,0
+4, 7-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-GumtiHub_KNU ,0,0,0
+4, 7-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-RudrapurHub_RDP ,0,0,0
+4, 7-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-MedicalRoadHub_GOP ,0,0,0
+4, 7-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-AzamgarhHub_AZM ,0,0,0
+4, 7-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-MotherHub_LKO ,0,0,0
+4, 7-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-GeorgeTownHub_ALD ,0,0,0
+4, 7-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-AliganjHub_LKO ,0,0,0
+4, 7-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-AllahabadHub_ALD ,0,0,0
+4, 7-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-TransportNagarHub_LKO ,0,0,0
+4, 7-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-CityCenterHub_GWL ,0,0,0
+4, 7-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-VibhutiKhandHub_LKO ,0,0,0
+4, 7-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-OrderlyBazarHub_VNS ,0,0,0
+4, 7-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-SigraHub_VNS ,0,0,0
+4, 7-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-BareillyHub_BRY ,0,0,0
+4, 7-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-MoradabadHub_MRD ,0,0,0
+4, 7-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-MoradabadHub_MRD ,13396,13396,5537811
+4, 7-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-RudrapurHub_RDP ,18767,18767,7758036
+4, 7-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-BareillyHub_BRY ,24088,24088,9957402
+4, 7-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-GumtiHub_KNU ,42424,42424,17537292
+4, 7-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-MotherHub_LKO ,47703,47703,19719296
+4, 7-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-AliganjHub_LKO ,48954,48954,20236497
+4, 7-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-TransportNagarHub_LKO ,49668,49668,20531666
+4, 7-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-VibhutiKhandHub_LKO ,49668,49668,20531666
+4, 7-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-MedicalRoadHub_GOP ,68252,68252,28213701
+4, 7-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-AzamgarhHub_AZM ,74939,74939,30978147
+4, 7-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-OrderlyBazarHub_VNS ,81439,81439,33665091
+4, 7-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-SigraHub_VNS ,81872,81872,33843908
+4, 7-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-GeorgeTownHub_ALD ,90860,90860,37559725
+4, 7-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-AllahabadHub_ALD ,91162,91162,37684530
+4, 7-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-CityCenterHub_GWL ,131191,131191,54231624
+4, 7-MotherHub_BAM-14   , end                   , -               ,131191, undef           ,54231624
+,,,,,,
+5, 9-MotherHub_BAM-14   , start                 , -               , undef           ,0,0
+5, 9-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-BhatindaHub_BUP ,0,0,0
+5, 9-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-JindHub_JND ,0,0,0
+5, 9-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-SirsaHub_SRS ,0,0,0
+5, 9-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-HissarHub_HSS ,0,0,0
+5, 9-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-RohtakHub_ROH ,0,0,0
+5, 9-MotherHub_BAM-14   , pickupShipment        , MotherHub_BAM-BhiwaniHub_DEL ,0,0,0
+5, 9-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-RohtakHub_ROH ,4325,4325,1787774
+5, 9-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-JindHub_JND ,4580,4580,1893069
+5, 9-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-BhiwaniHub_DEL ,7971,7971,3294843
+5, 9-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-HissarHub_HSS ,12319,12319,5092587
+5, 9-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-SirsaHub_SRS ,18942,18942,7830021
+5, 9-MotherHub_BAM-14   , deliverShipment       , MotherHub_BAM-BhatindaHub_BUP ,24729,24729,10222480
+5, 9-MotherHub_BAM-14   , end                   , -               ,24729, undef           ,10222480

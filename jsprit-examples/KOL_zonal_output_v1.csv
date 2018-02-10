@@ -1,0 +1,134 @@
+ route   , vehicle              , activity              , job             , arrTime         , endTime         , costs           
+,,,,,,
+1, 6-MotherHub_KOL-22   , start                 , -               , undef           ,0,0
+1, 6-MotherHub_KOL-22   , pickupShipment        , MotherHub_KOL-KorbaHub_KOR ,0,0,0
+1, 6-MotherHub_KOL-22   , pickupShipment        , MotherHub_KOL-RourkelaHub_RRK ,0,0,0
+1, 6-MotherHub_KOL-22   , pickupShipment        , MotherHub_KOL-MowaHub_RPR ,0,0,0
+1, 6-MotherHub_KOL-22   , pickupShipment        , MotherHub_KOL-RaigarhHub_RGH ,0,0,0
+1, 6-MotherHub_KOL-22   , pickupShipment        , MotherHub_KOL-BhilaiHub_BIA ,0,0,0
+1, 6-MotherHub_KOL-22   , pickupShipment        , MotherHub_KOL-RatanpurHub_PAB ,0,0,0
+1, 6-MotherHub_KOL-22   , pickupShipment        , MotherHub_KOL-RaipurHub_RPR ,0,0,0
+1, 6-MotherHub_KOL-22   , deliverShipment       , MotherHub_KOL-RourkelaHub_RRK ,28108,28108,11912058
+1, 6-MotherHub_KOL-22   , deliverShipment       , MotherHub_KOL-RaigarhHub_RGH ,40391,40391,17117755
+1, 6-MotherHub_KOL-22   , deliverShipment       , MotherHub_KOL-KorbaHub_KOR ,47019,47019,19926880
+1, 6-MotherHub_KOL-22   , deliverShipment       , MotherHub_KOL-RatanpurHub_PAB ,51899,51899,21994820
+1, 6-MotherHub_KOL-22   , deliverShipment       , MotherHub_KOL-MowaHub_RPR ,61638,61638,26122365
+1, 6-MotherHub_KOL-22   , deliverShipment       , MotherHub_KOL-RaipurHub_RPR ,61960,61960,26258557
+1, 6-MotherHub_KOL-22   , deliverShipment       , MotherHub_KOL-BhilaiHub_BIA ,64295,64295,27248307
+1, 6-MotherHub_KOL-22   , end                   , -               ,64295, undef           ,27248307
+,,,,,,
+2, 2-MotherHub_KOL-32   , start                 , -               , undef           ,0,0
+2, 2-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-TezpurHub_TZR ,0,0,0
+2, 2-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-NagaonHub_NGN ,0,0,0
+2, 2-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-ShillongHub_SHL ,0,0,0
+2, 2-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-BongaigaonHub_BGG ,0,0,0
+2, 2-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-MaligaonHub_GAU ,0,0,0
+2, 2-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-SixMileHub_GAU ,0,0,0
+2, 2-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-UlubariHub_GAU ,0,0,0
+2, 2-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-BongaigaonHub_BGG ,42266,42266,19166269
+2, 2-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-UlubariHub_GAU ,53338,53338,24186836
+2, 2-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-MaligaonHub_GAU ,54125,54125,24543682
+2, 2-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-SixMileHub_GAU ,55586,55586,25206007
+2, 2-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-ShillongHub_SHL ,61184,61184,27744748
+2, 2-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-NagaonHub_NGN ,72388,72388,32825492
+2, 2-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-TezpurHub_TZR ,76775,76775,34814824
+2, 2-MotherHub_KOL-32   , end                   , -               ,76775, undef           ,34814824
+,,,,,,
+3, 4-MotherHub_KOL-32   , start                 , -               , undef           ,0,0
+3, 4-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-HaldiaHub_HLD ,0,0,0
+3, 4-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-BaleshwarHub_BAW ,0,0,0
+3, 4-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-PuriHub_PUR ,0,0,0
+3, 4-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-ParadipHub_PDP ,0,0,0
+3, 4-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-ChandraSekharpurHub_BBI ,0,0,0
+3, 4-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-AngulHub_ANG ,0,0,0
+3, 4-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-BerhampurHub_BMP ,0,0,0
+3, 4-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-GautamnagarHub_BBI ,0,0,0
+3, 4-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-BhubaneswarHub_BBI ,0,0,0
+3, 4-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-KhandagiriHub_BBI ,0,0,0
+3, 4-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-HaldiaHub_HLD ,6590,6590,2988393
+3, 4-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-BaleshwarHub_BAW ,18638,18638,8451507
+3, 4-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-ParadipHub_PDP ,30640,30640,13894294
+3, 4-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-PuriHub_PUR ,39498,39498,17910979
+3, 4-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-KhandagiriHub_BBI ,43962,43962,19935068
+3, 4-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-GautamnagarHub_BBI ,44246,44246,20063855
+3, 4-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-BhubaneswarHub_BBI ,44456,44456,20158992
+3, 4-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-ChandraSekharpurHub_BBI ,45048,45048,20427821
+3, 4-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-AngulHub_ANG ,53489,53489,24255339
+3, 4-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-BerhampurHub_BMP ,68629,68629,31120897
+3, 4-MotherHub_KOL-32   , end                   , -               ,68629, undef           ,31120897
+,,,,,,
+4, 8-MotherHub_KOL-32   , start                 , -               , undef           ,0,0
+4, 8-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-ShantipurHub_STP ,0,0,0
+4, 8-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-SilcharHub_IXS ,0,0,0
+4, 8-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-AgartalaHub_IXA ,0,0,0
+4, 8-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-SibsagarHub_SBS ,0,0,0
+4, 8-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-DuliajanHub_DLN ,0,0,0
+4, 8-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-TinsukiaHub_TSK ,0,0,0
+4, 8-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-NorthLakhimpurHub_NLP ,0,0,0
+4, 8-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-JorhatHub_JRH ,0,0,0
+4, 8-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-DibrugarhHub_DIB ,0,0,0
+4, 8-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-SambalpurHub_SBP ,0,0,0
+4, 8-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-ShantipurHub_STP ,5480,5480,2484782
+4, 8-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-AgartalaHub_IXA ,31766,31766,14404906
+4, 8-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-SilcharHub_IXS ,48332,48332,21916691
+4, 8-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-SambalpurHub_SBP ,66238,66238,30036428
+4, 8-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-JorhatHub_JRH ,73650,73650,33397565
+4, 8-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-NorthLakhimpurHub_NLP ,78503,78503,35598170
+4, 8-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-SibsagarHub_SBS ,83865,83865,38029602
+4, 8-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-DibrugarhHub_DIB ,89143,89143,40423212
+4, 8-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-DuliajanHub_DLN ,92735,92735,42051961
+4, 8-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-TinsukiaHub_TSK ,94021,94021,42635155
+4, 8-MotherHub_KOL-32   , end                   , -               ,94021, undef           ,42635155
+,,,,,,
+5, 9-MotherHub_KOL-32   , start                 , -               , undef           ,0,0
+5, 9-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-BokaroHub_BKO ,0,0,0
+5, 9-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-KantatoliHub_IXR ,0,0,0
+5, 9-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-BurdwanHub_BDM ,0,0,0
+5, 9-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-DurgapurHub_DGP ,0,0,0
+5, 9-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-HarmuHub_IXR ,0,0,0
+5, 9-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-AsansolHub_ASN ,0,0,0
+5, 9-MotherHub_KOL-32   , pickupShipment        , MotherHub_KOL-DhanbadHub_DBD ,0,0,0
+5, 9-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-BurdwanHub_BDM ,6269,6269,2842693
+5, 9-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-DurgapurHub_DGP ,12083,12083,5479244
+5, 9-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-AsansolHub_ASN ,15967,15967,7240527
+5, 9-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-DhanbadHub_DBD ,20575,20575,9329892
+5, 9-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-BokaroHub_BKO ,23576,23576,10690800
+5, 9-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-HarmuHub_IXR ,31359,31359,14220077
+5, 9-MotherHub_KOL-32   , deliverShipment       , MotherHub_KOL-KantatoliHub_IXR ,31359,31359,14220077
+5, 9-MotherHub_KOL-32   , end                   , -               ,31359, undef           ,14220077
+,,,,,,
+6, 7-MotherHub_KOL-24   , start                 , -               , undef           ,0,0
+6, 7-MotherHub_KOL-24   , pickupShipment        , MotherHub_KOL-MurshidabadHub_MBB ,0,0,0
+6, 7-MotherHub_KOL-24   , pickupShipment        , MotherHub_KOL-EnglishBazarHub_LDA ,0,0,0
+6, 7-MotherHub_KOL-24   , pickupShipment        , MotherHub_KOL-CoochBeharHub_COB ,0,0,0
+6, 7-MotherHub_KOL-24   , pickupShipment        , MotherHub_KOL-JaigaonHub_JGN ,0,0,0
+6, 7-MotherHub_KOL-24   , pickupShipment        , MotherHub_KOL-JalpaiguriHub_JPG ,0,0,0
+6, 7-MotherHub_KOL-24   , pickupShipment        , MotherHub_KOL-SiliguriHub_IXB ,0,0,0
+6, 7-MotherHub_KOL-24   , pickupShipment        , MotherHub_KOL-MatigaraHub_IXB ,0,0,0
+6, 7-MotherHub_KOL-24   , pickupShipment        , MotherHub_KOL-DarjeelingHub_DAI ,0,0,0
+6, 7-MotherHub_KOL-24   , pickupShipment        , MotherHub_KOL-GangtokHub_GGT ,0,0,0
+6, 7-MotherHub_KOL-24   , deliverShipment       , MotherHub_KOL-MurshidabadHub_MBB ,12099,12099,5485988
+6, 7-MotherHub_KOL-24   , deliverShipment       , MotherHub_KOL-EnglishBazarHub_LDA ,19959,19959,9049429
+6, 7-MotherHub_KOL-24   , deliverShipment       , MotherHub_KOL-CoochBeharHub_COB ,35771,35771,16219176
+6, 7-MotherHub_KOL-24   , deliverShipment       , MotherHub_KOL-JaigaonHub_JGN ,40348,40348,18294134
+6, 7-MotherHub_KOL-24   , deliverShipment       , MotherHub_KOL-JalpaiguriHub_JPG ,45378,45378,20574919
+6, 7-MotherHub_KOL-24   , deliverShipment       , MotherHub_KOL-MatigaraHub_IXB ,48405,48405,21947430
+6, 7-MotherHub_KOL-24   , deliverShipment       , MotherHub_KOL-SiliguriHub_IXB ,48782,48782,22118369
+6, 7-MotherHub_KOL-24   , deliverShipment       , MotherHub_KOL-DarjeelingHub_DAI ,51734,51734,23456565
+6, 7-MotherHub_KOL-24   , deliverShipment       , MotherHub_KOL-GangtokHub_GGT ,55291,55291,25069710
+6, 7-MotherHub_KOL-24   , end                   , -               ,55291, undef           ,25069710
+,,,,,,
+7, 5-MotherHub_KOL-14   , start                 , -               , undef           ,0,0
+7, 5-MotherHub_KOL-14   , pickupShipment        , MotherHub_KOL-CuttackHub_BBI ,0,0,0
+7, 5-MotherHub_KOL-14   , pickupShipment        , MotherHub_KOL-Kharagpurhub_KGP ,0,0,0
+7, 5-MotherHub_KOL-14   , pickupShipment        , MotherHub_KOL-HazaribaghHub_HZB ,0,0,0
+7, 5-MotherHub_KOL-14   , pickupShipment        , MotherHub_KOL-AdityapurHub_IXW ,0,0,0
+7, 5-MotherHub_KOL-14   , pickupShipment        , MotherHub_KOL-MidnaporeHub_MDN ,0,0,0
+7, 5-MotherHub_KOL-14   , pickupShipment        , MotherHub_KOL-JamshedpurHub_IXW ,0,0,0
+7, 5-MotherHub_KOL-14   , deliverShipment       , MotherHub_KOL-MidnaporeHub_MDN ,8221,8221,3398571
+7, 5-MotherHub_KOL-14   , deliverShipment       , MotherHub_KOL-Kharagpurhub_KGP ,9188,9188,3798060
+7, 5-MotherHub_KOL-14   , deliverShipment       , MotherHub_KOL-JamshedpurHub_IXW ,18446,18446,7625204
+7, 5-MotherHub_KOL-14   , deliverShipment       , MotherHub_KOL-AdityapurHub_IXW ,19209,19209,7940572
+7, 5-MotherHub_KOL-14   , deliverShipment       , MotherHub_KOL-HazaribaghHub_HZB ,31645,31645,13081212
+7, 5-MotherHub_KOL-14   , deliverShipment       , MotherHub_KOL-CuttackHub_BBI ,108559,108559,44876025
+7, 5-MotherHub_KOL-14   , end                   , -               ,108559, undef           ,44876025

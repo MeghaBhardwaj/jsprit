@@ -1,0 +1,27 @@
+type,Concat,Lat Source,Long Source,Lat Dest ,Long Dest ,Source,Dest ,Ready Time,Load
+Shipment,MotherHub_MED-AmalapuramHub_AMP,17.580519,78.469527,16.5721,82.0009,MotherHub_MED,AmalapuramHub_AMP,0,231
+Shipment,MotherHub_MED-BhimavaramHub_BVM,17.580519,78.469527,16.544893,81.521241,MotherHub_MED,BhimavaramHub_BVM,0,354
+Shipment,MotherHub_MED-BiwiNagarHub_NLR,17.580519,78.469527,14.4103147,79.9638591,MotherHub_MED,BiwiNagarHub_NLR,0,727
+Shipment,MotherHub_MED-EluruHub_ELU,17.580519,78.469527,16.7107,81.0952,MotherHub_MED,EluruHub_ELU,0,406
+Shipment,MotherHub_MED-GajuwakaHub_VTZ,17.580519,78.469527,17.6840054,83.1933079,MotherHub_MED,GajuwakaHub_VTZ,0,848
+Shipment,MotherHub_MED-HanamkondaHub_WGL,17.580519,78.469527,17.9928272,79.5552427,MotherHub_MED,HanamkondaHub_WGL,0,661
+Shipment,MotherHub_MED-KadapaHub_KDP,17.580519,78.469527,14.4674,78.8241,MotherHub_MED,KadapaHub_KDP,0,252
+Shipment,MotherHub_MED-KakinadaHub_KKD,17.580519,78.469527,16.9890648,82.2474648,MotherHub_MED,KakinadaHub_KKD,0,738
+Shipment,MotherHub_MED-KarimnagarHub_KMN,17.580519,78.469527,18.419913,79.136985,MotherHub_MED,KarimnagarHub_KMN,0,730
+Shipment,MotherHub_MED-KhammamHub_KHM,17.580519,78.469527,17.252343,80.149662,MotherHub_MED,KhammamHub_KHM,0,476
+Shipment,MotherHub_MED-KurnoolHub_KRN,17.580519,78.469527,15.8286901,78.0358143,MotherHub_MED,KurnoolHub_KRN,0,423
+Shipment,MotherHub_MED-MahbubnagarHub_MBN,17.580519,78.469527,16.737513,78.008122,MotherHub_MED,MahbubnagarHub_MBN,0,192
+Shipment,MotherHub_MED-NalgondaHub_NGD,17.580519,78.469527,17.038222,79.261985,MotherHub_MED,NalgondaHub_NGD,0,159
+Shipment,MotherHub_MED-NizamabadHub_NZB,17.580519,78.469527,18.65781,78.107749,MotherHub_MED,NizamabadHub_NZB,0,255
+Shipment,MotherHub_MED-OngoleHub_ONG,17.580519,78.469527,15.5075126,80.0558088,MotherHub_MED,OngoleHub_ONG,0,305
+Shipment,MotherHub_MED-RajahmundryHub_RJY,17.580519,78.469527,17.006079,81.785695,MotherHub_MED,RajahmundryHub_RJY,0,797
+Shipment,MotherHub_MED-SitaramNagarHub_GTR,17.580519,78.469527,16.306157,80.458347,MotherHub_MED,SitaramNagarHub_GTR,0,1125
+Shipment,MotherHub_MED-SrikakulamHub_SKM,17.580519,78.469527,18.2969747,83.8967813,MotherHub_MED,SrikakulamHub_SKM,0,252
+Shipment,MotherHub_MED-SrikalahastiHub_SKH,17.580519,78.469527,13.7491571,79.6641819,MotherHub_MED,SrikalahastiHub_SKH,0,103
+Shipment,MotherHub_MED-TanukuHub_TKU,17.580519,78.469527,16.7571731,81.6799629,MotherHub_MED,TanukuHub_TKU,0,128
+Shipment,MotherHub_MED-TenaliHub_TNL,17.580519,78.469527,16.2395313,80.6493396,MotherHub_MED,TenaliHub_TNL,0,178
+Shipment,MotherHub_MED-VijayawadaHub_VJA,17.580519,78.469527,16.519591,80.698591,MotherHub_MED,VijayawadaHub_VJA,0,1508
+Shipment,MotherHub_MED-VikarabadHub_VKB,17.580519,78.469527,17.341414,77.9070458,MotherHub_MED,VikarabadHub_VKB,0,159
+Shipment,MotherHub_MED-VisakhapatnamHub_VTZ,17.580519,78.469527,17.6868159,83.2184815,MotherHub_MED,VisakhapatnamHub_VTZ,0,1017
+Shipment,MotherHub_MED-VisakhavalleyHub_VTZ,17.580519,78.469527,17.6868159,83.2184815,MotherHub_MED,VisakhavalleyHub_VTZ,0,790
+Shipment,MotherHub_MED-VizianagaramHub_VZM,17.580519,78.469527,18.1066576,83.3955506,MotherHub_MED,VizianagaramHub_VZM,0,244

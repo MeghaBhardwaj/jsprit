@@ -1,0 +1,170 @@
+ route   , vehicle              , activity              , job             , arrTime         , endTime         , costs           
+,,,,,,
+1, 1-MotherHub_BLR-22   , start                 , -               , undef           ,0,0
+1, 1-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-ChittoorHub_COR ,0,0,0
+1, 1-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-VelloreHub_VLR ,0,0,0
+1, 1-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-ThiruvallurHub_TRL ,0,0,0
+1, 1-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-KanchipuramHub_KCH ,0,0,0
+1, 1-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-LawspetHub_PDY ,0,0,0
+1, 1-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-CuddaloreHub_CDL ,0,0,0
+1, 1-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-ChidambaramHub_CDM ,0,0,0
+1, 1-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-KumbakonamHub_TNJ ,0,0,0
+1, 1-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-ThanjavurHub_TNJ ,0,0,0
+1, 1-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-ChittoorHub_COR ,10929,10929,4631563
+1, 1-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-VelloreHub_VLR ,13066,13066,5537487
+1, 1-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-ThiruvallurHub_TRL ,19684,19684,8342279
+1, 1-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-KanchipuramHub_KCH ,22720,22720,9628955
+1, 1-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-LawspetHub_PDY ,30427,30427,12894913
+1, 1-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-CuddaloreHub_CDL ,32469,32469,13760467
+1, 1-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-ChidambaramHub_CDM ,35546,35546,15064507
+1, 1-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-KumbakonamHub_TNJ ,40062,40062,16978186
+1, 1-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-ThanjavurHub_TNJ ,42983,42983,18216267
+1, 1-MotherHub_BLR-22   , end                   , -               ,42983, undef           ,18216267
+,,,,,,
+2, 3-MotherHub_BLR-22   , start                 , -               , undef           ,0,0
+2, 3-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-ShimogaHub_SMG ,0,0,0
+2, 3-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-HassanHub_HSN ,0,0,0
+2, 3-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-KarwarHub_KWR ,0,0,0
+2, 3-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-DavanagereHub_DVG ,0,0,0
+2, 3-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-HubliHub_HBX ,0,0,0
+2, 3-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-TumkurHub_TKR ,0,0,0
+2, 3-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-BelgaumHub_IXG ,0,0,0
+2, 3-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-DharwadHub_HBX ,0,0,0
+2, 3-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-TumkurHub_TKR ,6822,6822,2891380
+2, 3-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-HassanHub_HSN ,15988,15988,6775648
+2, 3-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-ShimogaHub_SMG ,25533,25533,10820816
+2, 3-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-DavanagereHub_DVG ,31006,31006,13140209
+2, 3-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-HubliHub_HBX ,41305,41305,17505231
+2, 3-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-DharwadHub_HBX ,42843,42843,18156946
+2, 3-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-BelgaumHub_IXG ,48225,48225,20437794
+2, 3-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-KarwarHub_KWR ,57919,57919,24545956
+2, 3-MotherHub_BLR-22   , end                   , -               ,57919, undef           ,24545956
+,,,,,,
+3, 9-MotherHub_BLR-22   , start                 , -               , undef           ,0,0
+3, 9-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-PNPalayamHub_CJB ,0,0,0
+3, 9-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-MalaPuramHub_MLP ,0,0,0
+3, 9-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-OotyHub_OTY ,0,0,0
+3, 9-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-KunnamangalamHub_KNM ,0,0,0
+3, 9-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-HosurHub_HOS ,0,0,0
+3, 9-MotherHub_BLR-22   , pickupShipment        , MotherHub_BLR-CalicutHub_CCJ ,0,0,0
+3, 9-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-HosurHub_HOS ,2277,2277,965120
+3, 9-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-PNPalayamHub_CJB ,17955,17955,7609526
+3, 9-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-OotyHub_OTY ,21012,21012,8904991
+3, 9-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-MalaPuramHub_MLP ,26888,26888,11395337
+3, 9-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-KunnamangalamHub_KNM ,29030,29030,12303104
+3, 9-MotherHub_BLR-22   , deliverShipment       , MotherHub_BLR-CalicutHub_CCJ ,29964,29964,12698570
+3, 9-MotherHub_BLR-22   , end                   , -               ,29964, undef           ,12698570
+,,,,,,
+4, 1-MotherHub_BLR-32   , start                 , -               , undef           ,0,0
+4, 1-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-KochiHub_COK ,0,0,0
+4, 1-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-IrinjalakudaHub_IJK ,0,0,0
+4, 1-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-KovaipudurHub_KVP ,0,0,0
+4, 1-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-TripunithuraHub_TRT ,0,0,0
+4, 1-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-ErnakulamHub_COK ,0,0,0
+4, 1-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-PalakkadHub_PKD ,0,0,0
+4, 1-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-AluvaHub_ALU ,0,0,0
+4, 1-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-TrissurHub_TCR ,0,0,0
+4, 1-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-KovaipudurHub_KVP ,21021,21021,9532375
+4, 1-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-PalakkadHub_PKD ,24695,24695,11198466
+4, 1-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-TrissurHub_TCR ,30539,30539,13848174
+4, 1-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-IrinjalakudaHub_IJK ,30539,30539,13848174
+4, 1-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-AluvaHub_ALU ,33120,33120,15018776
+4, 1-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-ErnakulamHub_COK ,34247,34247,15529582
+4, 1-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-KochiHub_COK ,34784,34784,15773343
+4, 1-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-TripunithuraHub_TRT ,35426,35426,16064455
+4, 1-MotherHub_BLR-32   , end                   , -               ,35426, undef           ,16064455
+,,,,,,
+5, 3-MotherHub_BLR-32   , start                 , -               , undef           ,0,0
+5, 3-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-AvinashiRdHub_CJB ,0,0,0
+5, 3-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-PeelameduHub_CJB ,0,0,0
+5, 3-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-PollachiHub_CJB ,0,0,0
+5, 3-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-SapthagiriHub_TPT ,0,0,0
+5, 3-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-SalemHub_SXV ,0,0,0
+5, 3-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-PallipalayamHub_ERD ,0,0,0
+5, 3-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-TirupurHub_TPR ,0,0,0
+5, 3-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-SalemHub_SXV ,13259,13259,6012562
+5, 3-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-PallipalayamHub_ERD ,18013,18013,8168349
+5, 3-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-TirupurHub_TPR ,22802,22802,10340018
+5, 3-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-SapthagiriHub_TPT ,23582,23582,10693454
+5, 3-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-PeelameduHub_CJB ,25938,25938,11762113
+5, 3-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-AvinashiRdHub_CJB ,26456,26456,11996823
+5, 3-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-PollachiHub_CJB ,29762,29762,13496127
+5, 3-MotherHub_BLR-32   , end                   , -               ,29762, undef           ,13496127
+,,,,,,
+6, 4-MotherHub_BLR-32   , start                 , -               , undef           ,0,0
+6, 4-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-KayamkulamHub_KKM ,0,0,0
+6, 4-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-DindigulHub_DND ,0,0,0
+6, 4-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-NagercoilHub_NGL ,0,0,0
+6, 4-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-TuticorinHub_TUT ,0,0,0
+6, 4-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-SivakasiHub_SVK ,0,0,0
+6, 4-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-TiruvallaHub_TIR ,0,0,0
+6, 4-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-TrivandrumHub_TRV ,0,0,0
+6, 4-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-ThirunelveliHub_TVL ,0,0,0
+6, 4-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-KollamHub_QLN ,0,0,0
+6, 4-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-DindigulHub_DND ,25777,25777,11689090
+6, 4-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-SivakasiHub_SVK ,34803,34803,15782007
+6, 4-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-TuticorinHub_TUT ,42030,42030,19058987
+6, 4-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-ThirunelveliHub_TVL ,46133,46133,20919691
+6, 4-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-NagercoilHub_NGL ,52136,52136,23641789
+6, 4-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-TrivandrumHub_TRV ,62692,62692,28428534
+6, 4-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-KollamHub_QLN ,62752,62752,28455770
+6, 4-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-KayamkulamHub_KKM ,66104,66104,29975935
+6, 4-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-TiruvallaHub_TIR ,67693,67693,30696256
+6, 4-MotherHub_BLR-32   , end                   , -               ,67693, undef           ,30696256
+,,,,,,
+7, 6-MotherHub_BLR-32   , start                 , -               , undef           ,0,0
+7, 6-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-MandyaHub_MNY ,0,0,0
+7, 6-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-MysoreHub_MYS ,0,0,0
+7, 6-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-JaydevNagarHub_MYS ,0,0,0
+7, 6-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-KannurHub_KAN ,0,0,0
+7, 6-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-ThalasseryHub_THL ,0,0,0
+7, 6-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-SurathkalHub_IXE ,0,0,0
+7, 6-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-MangaloreHub_IXE ,0,0,0
+7, 6-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-ManipalHub_MPL ,0,0,0
+7, 6-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-MandyaHub_MNY ,10044,10044,4554653
+7, 6-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-JaydevNagarHub_MYS ,13060,13060,5922378
+7, 6-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-MysoreHub_MYS ,13727,13727,6224743
+7, 6-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-ThalasseryHub_THL ,25582,25582,11600300
+7, 6-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-KannurHub_KAN ,27539,27539,12488110
+7, 6-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-MangaloreHub_IXE ,38593,38593,17500491
+7, 6-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-SurathkalHub_IXE ,39333,39333,17836218
+7, 6-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-ManipalHub_MPL ,42915,42915,19460304
+7, 6-MotherHub_BLR-32   , end                   , -               ,42915, undef           ,19460304
+,,,,,,
+8, 7-MotherHub_BLR-32   , start                 , -               , undef           ,0,0
+8, 7-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-KarurHub_KAU ,0,0,0
+8, 7-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-AlleppeyHub_ALP ,0,0,0
+8, 7-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-MaduraiHub_IXM ,0,0,0
+8, 7-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-ErodeHub_ERD ,0,0,0
+8, 7-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-KottayamHub_KTY ,0,0,0
+8, 7-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-PalaHub_PLA ,0,0,0
+8, 7-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-ThodupuzhaHub_THP ,0,0,0
+8, 7-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-PudukottaiHub_PDK ,0,0,0
+8, 7-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-TrichyHub_TRZ ,0,0,0
+8, 7-MotherHub_BLR-32   , pickupShipment        , MotherHub_BLR-KaraikudiHub_KRK ,0,0,0
+8, 7-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-ErodeHub_ERD ,16280,16280,7382281
+8, 7-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-KarurHub_KAU ,21351,21351,9682024
+8, 7-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-TrichyHub_TRZ ,27454,27454,12449466
+8, 7-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-PudukottaiHub_PDK ,31927,31927,14477830
+8, 7-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-KaraikudiHub_KRK ,35712,35712,16194288
+8, 7-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-MaduraiHub_IXM ,40989,40989,18586830
+8, 7-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-ThodupuzhaHub_THP ,54338,54338,24640178
+8, 7-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-PalaHub_PLA ,56339,56339,25547832
+8, 7-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-KottayamHub_KTY ,58109,58109,26350379
+8, 7-MotherHub_BLR-32   , deliverShipment       , MotherHub_BLR-AlleppeyHub_ALP ,60251,60251,27321784
+8, 7-MotherHub_BLR-32   , end                   , -               ,60251, undef           ,27321784
+,,,,,,
+9, 9-MotherHub_BLR-14   , start                 , -               , undef           ,0,0
+9, 9-MotherHub_BLR-14   , pickupShipment        , MotherHub_BLR-AnanthapurHub_ATP ,0,0,0
+9, 9-MotherHub_BLR-14   , pickupShipment        , MotherHub_BLR-BellaryHub_BLY ,0,0,0
+9, 9-MotherHub_BLR-14   , pickupShipment        , MotherHub_BLR-RaichurHub_RCH ,0,0,0
+9, 9-MotherHub_BLR-14   , pickupShipment        , MotherHub_BLR-GulbargaHub_GUL ,0,0,0
+9, 9-MotherHub_BLR-14   , pickupShipment        , MotherHub_BLR-BagalkotHub_BGK ,0,0,0
+9, 9-MotherHub_BLR-14   , pickupShipment        , MotherHub_BLR-BidarHub_BDR ,0,0,0
+9, 9-MotherHub_BLR-14   , deliverShipment       , MotherHub_BLR-AnanthapurHub_ATP ,14924,14924,6169132
+9, 9-MotherHub_BLR-14   , deliverShipment       , MotherHub_BLR-BellaryHub_BLY ,22101,22101,9135933
+9, 9-MotherHub_BLR-14   , deliverShipment       , MotherHub_BLR-RaichurHub_RCH ,32154,32154,13291565
+9, 9-MotherHub_BLR-14   , deliverShipment       , MotherHub_BLR-BagalkotHub_BGK ,46281,46281,19131501
+9, 9-MotherHub_BLR-14   , deliverShipment       , MotherHub_BLR-GulbargaHub_GUL ,57983,57983,23968969
+9, 9-MotherHub_BLR-14   , deliverShipment       , MotherHub_BLR-BidarHub_BDR ,68774,68774,28429767
+9, 9-MotherHub_BLR-14   , end                   , -               ,68774, undef           ,28429767

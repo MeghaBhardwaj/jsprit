@@ -1,0 +1,53 @@
+ route   , vehicle              , activity              , job             , arrTime         , endTime         , costs           
+,,,,,,
+1, 4-MotherHub_AMD-14   , start                 , -               , undef           ,0,0
+1, 4-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-MundraHub_MUD ,0,0,0
+1, 4-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-SurendraNagarHub_SDR ,0,0,0
+1, 4-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-JunagadhHub_IXK ,0,0,0
+1, 4-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-PorbandarHub_POR ,0,0,0
+1, 4-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-GandhidhamHub_GDM ,0,0,0
+1, 4-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-MorbiHub_MRB ,0,0,0
+1, 4-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-JamnagarHub_QGR ,0,0,0
+1, 4-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-BhujHub_BHJ ,0,0,0
+1, 4-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-KalawadRoadHub_RAJ ,0,0,0
+1, 4-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-SurendraNagarHub_SDR ,7680,7680,3174639
+1, 4-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-MorbiHub_MRB ,14527,14527,6004987
+1, 4-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-KalawadRoadHub_RAJ ,19226,19226,7947765
+1, 4-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-JunagadhHub_IXK ,26404,26404,10915007
+1, 4-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-PorbandarHub_POR ,33191,33191,13720553
+1, 4-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-JamnagarHub_QGR ,41129,41129,17001779
+1, 4-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-MundraHub_MUD ,45252,45252,18706301
+1, 4-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-BhujHub_BHJ ,48846,48846,20191847
+1, 4-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-GandhidhamHub_GDM ,52784,52784,21819739
+1, 4-MotherHub_AMD-14   , end                   , -               ,52784, undef           ,21819739
+,,,,,,
+2, 7-MotherHub_AMD-14   , start                 , -               , undef           ,0,0
+2, 7-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-GodhraHub_GHR ,0,0,0
+2, 7-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-NadiadHub_AMD ,0,0,0
+2, 7-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-AjwaHub_BDQ ,0,0,0
+2, 7-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-AkotaHub_BDQ ,0,0,0
+2, 7-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-AnandHub_AMD ,0,0,0
+2, 7-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-NadiadHub_AMD ,2590,2590,1070766
+2, 7-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-AnandHub_AMD ,4260,4260,1761042
+2, 7-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-AkotaHub_BDQ ,7072,7072,2923548
+2, 7-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-AjwaHub_BDQ ,8829,8829,3649749
+2, 7-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-GodhraHub_GHR ,13964,13964,5772454
+2, 7-MotherHub_AMD-14   , end                   , -               ,13964, undef           ,5772454
+,,,,,,
+3, 8-MotherHub_AMD-14   , start                 , -               , undef           ,0,0
+3, 8-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-GandhiNagarHub_GAN ,0,0,0
+3, 8-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-PalanpurHub_PLN ,0,0,0
+3, 8-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-MehsanaHub_MHN ,0,0,0
+3, 8-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-GandhiNagarHub_GAN ,2677,2677,1106608
+3, 8-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-MehsanaHub_MHN ,6630,6630,2740886
+3, 8-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-PalanpurHub_PLN ,11701,11701,4837054
+3, 8-MotherHub_AMD-14   , end                   , -               ,11701, undef           ,4837054
+,,,,,,
+4, 9-MotherHub_AMD-14   , start                 , -               , undef           ,0,0
+4, 9-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-BharuchHub_BRH ,0,0,0
+4, 9-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-SilvassaHub_AMD ,0,0,0
+4, 9-MotherHub_AMD-14   , pickupShipment        , MotherHub_AMD-BhavnagarHub_BVG ,0,0,0
+4, 9-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-BhavnagarHub_BVG ,10579,10579,4373075
+4, 9-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-BharuchHub_BRH ,17370,17370,7180337
+4, 9-MotherHub_AMD-14   , deliverShipment       , MotherHub_AMD-SilvassaHub_AMD ,30116,30116,12449173
+4, 9-MotherHub_AMD-14   , end                   , -               ,30116, undef           ,12449173

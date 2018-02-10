@@ -1,0 +1,173 @@
+ route   , vehicle              , activity              , job             , arrTime         , endTime         , costs           
+,,,,,,
+1, 9-MOTHERHUB_AMD-22   , start                 , -               , undef           ,0,0
+1, 9-MOTHERHUB_AMD-22   , pickupShipment        , MOTHERHUB_AMD-MOTHERHUB_KOL ,0,0,0
+1, 9-MOTHERHUB_AMD-22   , pickupShipment        , MOTHERHUB_STV-MOTHERHUB_KOL ,16069,16069,6810044
+1, 9-MOTHERHUB_AMD-22   , deliverShipment       , MOTHERHUB_AMD-MOTHERHUB_KOL ,142104,142104,60223853
+1, 9-MOTHERHUB_AMD-22   , deliverShipment       , MOTHERHUB_STV-MOTHERHUB_KOL ,142104,142104,60223853
+1, 9-MOTHERHUB_AMD-22   , end                   , -               ,142104, undef           ,60223853
+,,,,,,
+2, 6-MOTHERHUB_KOL-32   , start                 , -               , undef           ,0,0
+2, 6-MOTHERHUB_KOL-32   , pickupShipment        , MOTHERHUB_KOL-MOTHERHUB_AMD ,0,0,0
+2, 6-MOTHERHUB_KOL-32   , pickupShipment        , MOTHERHUB_KOL-MOTHERHUB_STV ,0,0,0
+2, 6-MOTHERHUB_KOL-32   , pickupShipment        , MOTHERHUB_KOL-MOTHERHUB_MED ,0,0,0
+2, 6-MOTHERHUB_KOL-32   , pickupShipment        , MOTHERHUB_KOL-MOTHERHUB_BLR ,0,0,0
+2, 6-MOTHERHUB_KOL-32   , pickupShipment        , MOTHERHUB_KOL-MOTHERHUB_BIL ,0,0,0
+2, 6-MOTHERHUB_KOL-32   , pickupShipment        , MOTHERHUB_KOL-MOTHERHUB_CHN ,0,0,0
+2, 6-MOTHERHUB_KOL-32   , pickupShipment        , MOTHERHUB_AMD-MOTHERHUB_CHN ,141872,141872,64333558
+2, 6-MOTHERHUB_KOL-32   , deliverShipment       , MOTHERHUB_KOL-MOTHERHUB_AMD ,141872,141872,64333558
+2, 6-MOTHERHUB_KOL-32   , deliverShipment       , MOTHERHUB_KOL-MOTHERHUB_STV ,159831,159831,72477498
+2, 6-MOTHERHUB_KOL-32   , deliverShipment       , MOTHERHUB_KOL-MOTHERHUB_BIL ,178042,178042,80735455
+2, 6-MOTHERHUB_KOL-32   , pickupShipment        , MOTHERHUB_BIL-MOTHERHUB_MED ,178042,178042,80735455
+2, 6-MOTHERHUB_KOL-32   , deliverShipment       , MOTHERHUB_BIL-MOTHERHUB_MED ,231155,231155,104820127
+2, 6-MOTHERHUB_KOL-32   , deliverShipment       , MOTHERHUB_KOL-MOTHERHUB_MED ,231155,231155,104820127
+2, 6-MOTHERHUB_KOL-32   , pickupShipment        , MOTHERHUB_MED-MOTHERHUB_CHN ,231155,231155,104820127
+2, 6-MOTHERHUB_KOL-32   , deliverShipment       , MOTHERHUB_KOL-MOTHERHUB_BLR ,276652,276652,125451208
+2, 6-MOTHERHUB_KOL-32   , pickupShipment        , MotherHub_BLR-MOTHERHUB_CHN ,276652,276652,125451208
+2, 6-MOTHERHUB_KOL-32   , deliverShipment       , MotherHub_BLR-MOTHERHUB_CHN ,298101,298101,135177832
+2, 6-MOTHERHUB_KOL-32   , deliverShipment       , MOTHERHUB_AMD-MOTHERHUB_CHN ,298101,298101,135177832
+2, 6-MOTHERHUB_KOL-32   , deliverShipment       , MOTHERHUB_KOL-MOTHERHUB_CHN ,298101,298101,135177832
+2, 6-MOTHERHUB_KOL-32   , deliverShipment       , MOTHERHUB_MED-MOTHERHUB_CHN ,298101,298101,135177832
+2, 6-MOTHERHUB_KOL-32   , end                   , -               ,298101, undef           ,135177832
+,,,,,,
+3, 0-MOTHERHUB_BIL-32   , start                 , -               , undef           ,0,0
+3, 0-MOTHERHUB_BIL-32   , pickupShipment        , MOTHERHUB_BIL-MOTHERHUB_BLR ,0,0,0
+3, 0-MOTHERHUB_BIL-32   , deliverShipment       , MOTHERHUB_BIL-MOTHERHUB_BLR ,76131,86400,34522437
+3, 0-MOTHERHUB_BIL-32   , end                   , -               ,86400, undef           ,34522437
+,,,,,,
+4, 6-MOTHERHUB_BIL-32   , start                 , -               , undef           ,0,0
+4, 6-MOTHERHUB_BIL-32   , pickupShipment        , MOTHERHUB_BIL-MOTHERHUB_JAI ,0,0,0
+4, 6-MOTHERHUB_BIL-32   , pickupShipment        , MOTHERHUB_BIL-MOTHERHUB_KOL ,0,0,0
+4, 6-MOTHERHUB_BIL-32   , pickupShipment        , MOTHERHUB_KOL-MOTHERHUB_JAI ,143682,143682,65154592
+4, 6-MOTHERHUB_BIL-32   , deliverShipment       , MOTHERHUB_BIL-MOTHERHUB_KOL ,143682,143682,65154592
+4, 6-MOTHERHUB_BIL-32   , pickupShipment        , MOTHERHUB_KOL-MOTHERHUB_PTI ,143682,143682,65154592
+4, 6-MOTHERHUB_BIL-32   , deliverShipment       , MOTHERHUB_KOL-MOTHERHUB_PTI ,258673,258673,117298479
+4, 6-MOTHERHUB_BIL-32   , deliverShipment       , MOTHERHUB_KOL-MOTHERHUB_JAI ,274936,274936,124673418
+4, 6-MOTHERHUB_BIL-32   , deliverShipment       , MOTHERHUB_BIL-MOTHERHUB_JAI ,274936,274936,124673418
+4, 6-MOTHERHUB_BIL-32   , end                   , -               ,274936, undef           ,124673418
+,,,,,,
+5, 5-MOTHERHUB_PTI-32   , start                 , -               , undef           ,0,0
+5, 5-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_PTI-MOTHERHUB_AMD ,0,0,0
+5, 5-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_JAI-MOTHERHUB_AMD ,16264,16264,7374938
+5, 5-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_JAI-MOTHERHUB_CHN ,16264,16264,7374938
+5, 5-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_JAI-MOTHERHUB_STV ,16264,16264,7374938
+5, 5-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_AMD-MOTHERHUB_JAI ,64994,64994,29472185
+5, 5-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_AMD-MOTHERHUB_STV ,64994,64994,29472185
+5, 5-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_JAI-MOTHERHUB_AMD ,64994,86400,29472185
+5, 5-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_AMD-MOTHERHUB_MED ,86400,86400,29472185
+5, 5-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_PTI-MOTHERHUB_AMD ,86400,86400,29472185
+5, 5-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_AMD-MOTHERHUB_PTI ,86400,86400,29472185
+5, 5-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_STV-MOTHERHUB_JAI ,104359,104359,37616125
+5, 5-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_STV-MOTHERHUB_PTI ,104359,104359,37616125
+5, 5-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_AMD-MOTHERHUB_STV ,104359,104359,37616125
+5, 5-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_JAI-MOTHERHUB_STV ,104359,104359,37616125
+5, 5-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_AMD-MOTHERHUB_JAI ,167288,167288,66151901
+5, 5-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_STV-MOTHERHUB_JAI ,167288,167288,66151901
+5, 5-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_AMD-MOTHERHUB_PTI ,183552,183552,73526839
+5, 5-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_STV-MOTHERHUB_PTI ,183552,183552,73526839
+5, 5-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_PTI-MOTHERHUB_CHN ,183552,183552,73526839
+5, 5-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_AMD-MOTHERHUB_MED ,289646,289646,121636577
+5, 5-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_PTI-MOTHERHUB_CHN ,336625,336625,142939835
+5, 5-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_JAI-MOTHERHUB_CHN ,336625,336625,142939835
+5, 5-MOTHERHUB_PTI-32   , end                   , -               ,336625, undef           ,142939835
+,,,,,,
+6, 8-MOTHERHUB_PTI-32   , start                 , -               , undef           ,0,0
+6, 8-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_PTI-MOTHERHUB_STV ,0,0,0
+6, 8-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_JAI-MOTHERHUB_BIL ,16264,16264,7374938
+6, 8-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_JAI-MOTHERHUB_BLR ,16264,16264,7374938
+6, 8-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_JAI-MOTHERHUB_MED ,16264,16264,7374938
+6, 8-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_PTI-MOTHERHUB_STV ,79192,86400,35910714
+6, 8-MOTHERHUB_PTI-32   , pickupShipment        , MOTHERHUB_STV-MOTHERHUB_MED ,86400,86400,35910714
+6, 8-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_JAI-MOTHERHUB_BIL ,104611,104611,44168672
+6, 8-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_STV-MOTHERHUB_MED ,157724,157724,68253344
+6, 8-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_JAI-MOTHERHUB_MED ,157724,157724,68253344
+6, 8-MOTHERHUB_PTI-32   , deliverShipment       , MOTHERHUB_JAI-MOTHERHUB_BLR ,203220,203220,88884424
+6, 8-MOTHERHUB_PTI-32   , end                   , -               ,203220, undef           ,88884424
+,,,,,,
+7, 8-MOTHERHUB_STV-28   , start                 , -               , undef           ,0,0
+7, 8-MOTHERHUB_STV-28   , pickupShipment        , MOTHERHUB_STV-MOTHERHUB_AMD ,0,0,0
+7, 8-MOTHERHUB_STV-28   , pickupShipment        , MOTHERHUB_STV-MOTHERHUB_CHN ,0,0,0
+7, 8-MOTHERHUB_STV-28   , pickupShipment        , MOTHERHUB_STV-MOTHERHUB_BLR ,0,0,0
+7, 8-MOTHERHUB_STV-28   , deliverShipment       , MOTHERHUB_STV-MOTHERHUB_AMD ,17959,86400,8060197
+7, 8-MOTHERHUB_STV-28   , pickupShipment        , MOTHERHUB_AMD-MOTHERHUB_BIL ,86400,86400,8060197
+7, 8-MOTHERHUB_STV-28   , pickupShipment        , MOTHERHUB_AMD-MOTHERHUB_BLR ,86400,86400,8060197
+7, 8-MOTHERHUB_STV-28   , deliverShipment       , MOTHERHUB_AMD-MOTHERHUB_BIL ,122536,122536,24278011
+7, 8-MOTHERHUB_STV-28   , pickupShipment        , MOTHERHUB_BIL-MOTHERHUB_CHN ,122536,122536,24278011
+7, 8-MOTHERHUB_STV-28   , deliverShipment       , MOTHERHUB_AMD-MOTHERHUB_BLR ,198667,198667,58445461
+7, 8-MOTHERHUB_STV-28   , deliverShipment       , MOTHERHUB_STV-MOTHERHUB_BLR ,198667,198667,58445461
+7, 8-MOTHERHUB_STV-28   , deliverShipment       , MOTHERHUB_STV-MOTHERHUB_CHN ,220116,220116,68072069
+7, 8-MOTHERHUB_STV-28   , deliverShipment       , MOTHERHUB_BIL-MOTHERHUB_CHN ,220116,220116,68072069
+7, 8-MOTHERHUB_STV-28   , end                   , -               ,220116, undef           ,68072069
+,,,,,,
+8, 3-MOTHERHUB_STV-14   , start                 , -               , undef           ,0,0
+8, 3-MOTHERHUB_STV-14   , pickupShipment        , MOTHERHUB_STV-MOTHERHUB_BIL ,0,0,0
+8, 3-MOTHERHUB_STV-14   , deliverShipment       , MOTHERHUB_STV-MOTHERHUB_BIL ,16294,86400,6735557
+8, 3-MOTHERHUB_STV-14   , end                   , -               ,86400, undef           ,6735557
+,,,,,,
+9, 5-MOTHERHUB_MED-28   , start                 , -               , undef           ,0,0
+9, 5-MOTHERHUB_MED-28   , pickupShipment        , MOTHERHUB_MED-MOTHERHUB_KOL ,0,0,0
+9, 5-MOTHERHUB_MED-28   , deliverShipment       , MOTHERHUB_MED-MOTHERHUB_KOL ,103401,103401,46406260
+9, 5-MOTHERHUB_MED-28   , end                   , -               ,103401, undef           ,46406260
+,,,,,,
+10, 8-MOTHERHUB_MED-24   , start                 , -               , undef           ,0,0
+10, 8-MOTHERHUB_MED-24   , pickupShipment        , MOTHERHUB_MED-MOTHERHUB_BIL ,0,0,0
+10, 8-MOTHERHUB_MED-24   , deliverShipment       , MOTHERHUB_MED-MOTHERHUB_BIL ,47522,86400,21546989
+10, 8-MOTHERHUB_MED-24   , end                   , -               ,86400, undef           ,21546989
+,,,,,,
+11, 1-MOTHERHUB_CHN-28   , start                 , -               , undef           ,0,0
+11, 1-MOTHERHUB_CHN-28   , pickupShipment        , MOTHERHUB_CHN-MOTHERHUB_BLR ,0,0,0
+11, 1-MOTHERHUB_CHN-28   , deliverShipment       , MOTHERHUB_CHN-MOTHERHUB_BLR ,21450,86400,9626608
+11, 1-MOTHERHUB_CHN-28   , pickupShipment        , MotherHub_BLR-MOTHERHUB_MED ,86400,86400,9626608
+11, 1-MOTHERHUB_CHN-28   , deliverShipment       , MotherHub_BLR-MOTHERHUB_MED ,131897,131897,30045544
+11, 1-MOTHERHUB_CHN-28   , end                   , -               ,131897, undef           ,30045544
+,,,,,,
+12, 4-MOTHERHUB_CHN-32   , start                 , -               , undef           ,0,0
+12, 4-MOTHERHUB_CHN-32   , pickupShipment        , MOTHERHUB_CHN-MOTHERHUB_MED ,0,0,0
+12, 4-MOTHERHUB_CHN-32   , pickupShipment        , MOTHERHUB_CHN-MOTHERHUB_AMD ,0,0,0
+12, 4-MOTHERHUB_CHN-32   , pickupShipment        , MOTHERHUB_CHN-MOTHERHUB_STV ,0,0,0
+12, 4-MOTHERHUB_CHN-32   , pickupShipment        , MOTHERHUB_CHN-MOTHERHUB_BIL ,0,0,0
+12, 4-MOTHERHUB_CHN-32   , pickupShipment        , MotherHub_BLR-MOTHERHUB_STV ,21450,21450,9726625
+12, 4-MOTHERHUB_CHN-32   , pickupShipment        , MotherHub_BLR-MOTHERHUB_AMD ,21450,21450,9726625
+12, 4-MOTHERHUB_CHN-32   , deliverShipment       , MOTHERHUB_CHN-MOTHERHUB_MED ,66946,86400,30357705
+12, 4-MOTHERHUB_CHN-32   , pickupShipment        , MOTHERHUB_MED-MOTHERHUB_STV ,86400,86400,30357705
+12, 4-MOTHERHUB_CHN-32   , pickupShipment        , MOTHERHUB_MED-MOTHERHUB_AMD ,86400,86400,30357705
+12, 4-MOTHERHUB_CHN-32   , deliverShipment       , MOTHERHUB_CHN-MOTHERHUB_BIL ,139513,139513,54442378
+12, 4-MOTHERHUB_CHN-32   , pickupShipment        , MOTHERHUB_BIL-MOTHERHUB_AMD ,139513,139513,54442378
+12, 4-MOTHERHUB_CHN-32   , pickupShipment        , MOTHERHUB_BIL-MOTHERHUB_STV ,139513,139513,54442378
+12, 4-MOTHERHUB_CHN-32   , deliverShipment       , MOTHERHUB_MED-MOTHERHUB_STV ,157724,157724,62700335
+12, 4-MOTHERHUB_CHN-32   , deliverShipment       , MotherHub_BLR-MOTHERHUB_STV ,157724,157724,62700335
+12, 4-MOTHERHUB_CHN-32   , deliverShipment       , MOTHERHUB_CHN-MOTHERHUB_STV ,157724,157724,62700335
+12, 4-MOTHERHUB_CHN-32   , deliverShipment       , MOTHERHUB_BIL-MOTHERHUB_STV ,157724,157724,62700335
+12, 4-MOTHERHUB_CHN-32   , deliverShipment       , MOTHERHUB_MED-MOTHERHUB_AMD ,175683,175683,70844274
+12, 4-MOTHERHUB_CHN-32   , deliverShipment       , MOTHERHUB_CHN-MOTHERHUB_AMD ,175683,175683,70844274
+12, 4-MOTHERHUB_CHN-32   , deliverShipment       , MOTHERHUB_BIL-MOTHERHUB_AMD ,175683,175683,70844274
+12, 4-MOTHERHUB_CHN-32   , deliverShipment       , MotherHub_BLR-MOTHERHUB_AMD ,175683,175683,70844274
+12, 4-MOTHERHUB_CHN-32   , end                   , -               ,175683, undef           ,70844274
+,,,,,,
+13, 6-MOTHERHUB_CHN-32   , start                 , -               , undef           ,0,0
+13, 6-MOTHERHUB_CHN-32   , pickupShipment        , MOTHERHUB_CHN-MOTHERHUB_JAI ,0,0,0
+13, 6-MOTHERHUB_CHN-32   , pickupShipment        , MOTHERHUB_CHN-MOTHERHUB_PTI ,0,0,0
+13, 6-MOTHERHUB_CHN-32   , pickupShipment        , MotherHub_BLR-MOTHERHUB_JAI ,21450,21450,9726625
+13, 6-MOTHERHUB_CHN-32   , pickupShipment        , MOTHERHUB_MED-MOTHERHUB_JAI ,66946,66946,30357705
+13, 6-MOTHERHUB_CHN-32   , deliverShipment       , MOTHERHUB_CHN-MOTHERHUB_JAI ,162063,162063,73489367
+13, 6-MOTHERHUB_CHN-32   , deliverShipment       , MOTHERHUB_MED-MOTHERHUB_JAI ,162063,162063,73489367
+13, 6-MOTHERHUB_CHN-32   , deliverShipment       , MotherHub_BLR-MOTHERHUB_JAI ,162063,162063,73489367
+13, 6-MOTHERHUB_CHN-32   , deliverShipment       , MOTHERHUB_CHN-MOTHERHUB_PTI ,178326,178326,80864305
+13, 6-MOTHERHUB_CHN-32   , pickupShipment        , MOTHERHUB_PTI-MOTHERHUB_JAI ,178326,178326,80864305
+13, 6-MOTHERHUB_CHN-32   , deliverShipment       , MOTHERHUB_PTI-MOTHERHUB_JAI ,194590,194590,88239244
+13, 6-MOTHERHUB_CHN-32   , end                   , -               ,194590, undef           ,88239244
+,,,,,,
+14, 9-MOTHERHUB_CHN-14   , start                 , -               , undef           ,0,0
+14, 9-MOTHERHUB_CHN-14   , pickupShipment        , MOTHERHUB_CHN-MOTHERHUB_KOL ,0,0,0
+14, 9-MOTHERHUB_CHN-14   , deliverShipment       , MOTHERHUB_CHN-MOTHERHUB_KOL ,109032,109032,45071381
+14, 9-MOTHERHUB_CHN-14   , end                   , -               ,109032, undef           ,45071381
+,,,,,,
+15, 3-MOTHERHUB_JAI-14   , start                 , -               , undef           ,0,0
+15, 3-MOTHERHUB_JAI-14   , pickupShipment        , MOTHERHUB_JAI-MOTHERHUB_PTI ,0,0,0
+15, 3-MOTHERHUB_JAI-14   , deliverShipment       , MOTHERHUB_JAI-MOTHERHUB_PTI ,14552,86400,6015328
+15, 3-MOTHERHUB_JAI-14   , end                   , -               ,86400, undef           ,6015328
+,,,,,,
+16, 4-MOTHERHUB_JAI-14   , start                 , -               , undef           ,0,0
+16, 4-MOTHERHUB_JAI-14   , pickupShipment        , MOTHERHUB_JAI-MOTHERHUB_KOL ,0,0,0
+16, 4-MOTHERHUB_JAI-14   , deliverShipment       , MOTHERHUB_JAI-MOTHERHUB_KOL ,106406,106406,43985838
+16, 4-MOTHERHUB_JAI-14   , end                   , -               ,106406, undef           ,43985838

@@ -1,0 +1,53 @@
+ route   , vehicle              , activity              , job             , arrTime         , endTime         , costs           
+,,,,,,
+1, 5-MotherHub_PUNE-24  , start                 , -               , undef           ,0,0
+1, 5-MotherHub_PUNE-24  , pickupShipment        , MotherHub_PUNE-AhmedNagarHub_AHN ,0,0,0
+1, 5-MotherHub_PUNE-24  , pickupShipment        , MotherHub_PUNE-JalnaHub_JLN ,0,0,0
+1, 5-MotherHub_PUNE-24  , pickupShipment        , MotherHub_PUNE-CornerRoadHub_IXU ,0,0,0
+1, 5-MotherHub_PUNE-24  , pickupShipment        , MotherHub_PUNE-AmravatiHub_AMI ,0,0,0
+1, 5-MotherHub_PUNE-24  , pickupShipment        , MotherHub_PUNE-AurangabadHub_IXU ,0,0,0
+1, 5-MotherHub_PUNE-24  , pickupShipment        , MotherHub_PUNE-AkolaHub_AKD ,0,0,0
+1, 5-MotherHub_PUNE-24  , pickupShipment        , MotherHub_PUNE-WardhamanNagar_NAG ,0,0,0
+1, 5-MotherHub_PUNE-24  , pickupShipment        , MotherHub_PUNE-TrimurtiNagarHub_NAG ,0,0,0
+1, 5-MotherHub_PUNE-24  , deliverShipment       , MotherHub_PUNE-AhmedNagarHub_AHN ,9596,9596,4351105
+1, 5-MotherHub_PUNE-24  , deliverShipment       , MotherHub_PUNE-CornerRoadHub_IXU ,17800,17800,8070587
+1, 5-MotherHub_PUNE-24  , deliverShipment       , MotherHub_PUNE-AurangabadHub_IXU ,18092,18092,8203310
+1, 5-MotherHub_PUNE-24  , deliverShipment       , MotherHub_PUNE-JalnaHub_JLN ,22501,22501,10201985
+1, 5-MotherHub_PUNE-24  , deliverShipment       , MotherHub_PUNE-AkolaHub_AKD ,34464,34464,15626259
+1, 5-MotherHub_PUNE-24  , deliverShipment       , MotherHub_PUNE-AmravatiHub_AMI ,40943,40943,18563988
+1, 5-MotherHub_PUNE-24  , deliverShipment       , MotherHub_PUNE-TrimurtiNagarHub_NAG ,51819,51819,23495420
+1, 5-MotherHub_PUNE-24  , deliverShipment       , MotherHub_PUNE-WardhamanNagar_NAG ,52433,52433,23773820
+1, 5-MotherHub_PUNE-24  , end                   , -               ,52433, undef           ,23773820
+,,,,,,
+2, 1-MotherHub_PUNE-14  , start                 , -               , undef           ,0,0
+2, 1-MotherHub_PUNE-14  , pickupShipment        , MotherHub_PUNE-WadiHub_NAG ,0,0,0
+2, 1-MotherHub_PUNE-14  , deliverShipment       , MotherHub_PUNE-WadiHub_NAG ,6609,6609,2732164
+2, 1-MotherHub_PUNE-14  , end                   , -               ,6609, undef           ,2732164
+,,,,,,
+3, 2-MotherHub_PUNE-14  , start                 , -               , undef           ,0,0
+3, 2-MotherHub_PUNE-14  , pickupShipment        , MotherHub_PUNE-KolhapurHub_KHL ,0,0,0
+3, 2-MotherHub_PUNE-14  , pickupShipment        , MotherHub_PUNE-SataraHub_STR ,0,0,0
+3, 2-MotherHub_PUNE-14  , pickupShipment        , MotherHub_PUNE-KaradHub_KRD ,0,0,0
+3, 2-MotherHub_PUNE-14  , pickupShipment        , MotherHub_PUNE-IslampurHub_SNG ,0,0,0
+3, 2-MotherHub_PUNE-14  , pickupShipment        , MotherHub_PUNE-IchalkaranjiHub_KHL ,0,0,0
+3, 2-MotherHub_PUNE-14  , pickupShipment        , MotherHub_PUNE-SangliHub_SNG ,0,0,0
+3, 2-MotherHub_PUNE-14  , deliverShipment       , MotherHub_PUNE-SataraHub_STR ,8237,8237,3404890
+3, 2-MotherHub_PUNE-14  , deliverShipment       , MotherHub_PUNE-KaradHub_KRD ,12234,12234,5057177
+3, 2-MotherHub_PUNE-14  , deliverShipment       , MotherHub_PUNE-IslampurHub_SNG ,14248,14248,5889665
+3, 2-MotherHub_PUNE-14  , deliverShipment       , MotherHub_PUNE-KolhapurHub_KHL ,17399,17399,7192451
+3, 2-MotherHub_PUNE-14  , deliverShipment       , MotherHub_PUNE-IchalkaranjiHub_KHL ,19388,19388,8014627
+3, 2-MotherHub_PUNE-14  , deliverShipment       , MotherHub_PUNE-SangliHub_SNG ,21112,21112,8727248
+3, 2-MotherHub_PUNE-14  , end                   , -               ,21112, undef           ,8727248
+,,,,,,
+4, 7-MotherHub_PUNE-14  , start                 , -               , undef           ,0,0
+4, 7-MotherHub_PUNE-14  , pickupShipment        , MotherHub_PUNE-SolapurHub_SSE ,0,0,0
+4, 7-MotherHub_PUNE-14  , pickupShipment        , MotherHub_PUNE-BaramatiHub_BRM ,0,0,0
+4, 7-MotherHub_PUNE-14  , pickupShipment        , MotherHub_PUNE-BeedHub_BED ,0,0,0
+4, 7-MotherHub_PUNE-14  , pickupShipment        , MotherHub_PUNE-LaturHub_LTU ,0,0,0
+4, 7-MotherHub_PUNE-14  , pickupShipment        , MotherHub_PUNE-NandedHub_NDC ,0,0,0
+4, 7-MotherHub_PUNE-14  , deliverShipment       , MotherHub_PUNE-BaramatiHub_BRM ,8245,8245,3408434
+4, 7-MotherHub_PUNE-14  , deliverShipment       , MotherHub_PUNE-BeedHub_BED ,20052,20052,8288974
+4, 7-MotherHub_PUNE-14  , deliverShipment       , MotherHub_PUNE-SolapurHub_SSE ,31836,31836,13160298
+4, 7-MotherHub_PUNE-14  , deliverShipment       , MotherHub_PUNE-LaturHub_LTU ,40272,40272,16647581
+4, 7-MotherHub_PUNE-14  , deliverShipment       , MotherHub_PUNE-NandedHub_NDC ,49442,49442,20438030
+4, 7-MotherHub_PUNE-14  , end                   , -               ,49442, undef           ,20438030

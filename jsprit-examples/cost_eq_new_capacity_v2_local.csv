@@ -1,0 +1,4 @@
+Size,Mileage,Speed,KMperTyper,Costoftyre,Numberoftyres,Repaircharge,ContainerFactor,VehicleCost,Interest,loadperiod,AMC,Insurance,Capacity,factor
+17,60,11,250000,20000,6,1,1,1200000,14,10,3,1,3000,18.35918
+19,60,11,250000,20000,6,1,1,1300000,14,10,3,1,3500,18.35918
+14,60,11,250000,20000,4,1,1,1000000,14,10,3,1,2000,18.13061

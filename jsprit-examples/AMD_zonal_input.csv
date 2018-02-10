@@ -1,0 +1,21 @@
+type,Concat,Lat Source,Long Source,Lat Dest ,Long Dest ,Source,Dest ,Ready Time,Load
+Shipment,MotherHub_AMD-AjwaHub_BDQ,22.8978044,72.5902141,22.3751159,73.3829223,MotherHub_AMD,AjwaHub_BDQ,0,30
+Shipment,MotherHub_AMD-AkotaHub_BDQ,22.8978044,72.5902141,22.3058105,73.1799038,MotherHub_AMD,AkotaHub_BDQ,0,878
+Shipment,MotherHub_AMD-AnandHub_AMD,22.8978044,72.5902141,22.556447,72.963939,MotherHub_AMD,AnandHub_AMD,0,271
+Shipment,MotherHub_AMD-BharuchHub_BRH,22.8978044,72.5902141,21.718804,72.985729,MotherHub_AMD,BharuchHub_BRH,0,506
+Shipment,MotherHub_AMD-BhavnagarHub_BVG,22.8978044,72.5902141,21.7619982,72.1540159,MotherHub_AMD,BhavnagarHub_BVG,0,242
+Shipment,MotherHub_AMD-BhujHub_BHJ,22.8978044,72.5902141,23.242865,69.6398817,MotherHub_AMD,BhujHub_BHJ,0,395
+Shipment,MotherHub_AMD-GandhidhamHub_GDM,22.8978044,72.5902141,23.0803778,70.0947859,MotherHub_AMD,GandhidhamHub_GDM,0,230
+Shipment,MotherHub_AMD-GandhiNagarHub_GAN,22.8978044,72.5902141,23.2019832,72.6147011,MotherHub_AMD,GandhiNagarHub_GAN,0,694
+Shipment,MotherHub_AMD-GodhraHub_GHR,22.8978044,72.5902141,22.84282,73.76371,MotherHub_AMD,GodhraHub_GHR,0,83
+Shipment,MotherHub_AMD-JamnagarHub_QGR,22.8978044,72.5902141,22.468992,70.0412043,MotherHub_AMD,JamnagarHub_QGR,0,510
+Shipment,MotherHub_AMD-JunagadhHub_IXK,22.8978044,72.5902141,21.5219366,70.4552781,MotherHub_AMD,JunagadhHub_IXK,0,273
+Shipment,MotherHub_AMD-KalawadRoadHub_RAJ,22.8978044,72.5902141,22.2850443,70.7723721,MotherHub_AMD,KalawadRoadHub_RAJ,0,856
+Shipment,MotherHub_AMD-MehsanaHub_MHN,22.8978044,72.5902141,23.5972549,72.3793129,MotherHub_AMD,MehsanaHub_MHN,0,199
+Shipment,MotherHub_AMD-MorbiHub_MRB,22.8978044,72.5902141,22.8185931,70.821625,MotherHub_AMD,MorbiHub_MRB,0,117
+Shipment,MotherHub_AMD-MundraHub_MUD,22.8978044,72.5902141,22.8422969,69.7320994,MotherHub_AMD,MundraHub_MUD,0,140
+Shipment,MotherHub_AMD-NadiadHub_AMD,22.8978044,72.5902141,22.6958892,72.8237067,MotherHub_AMD,NadiadHub_AMD,0,71
+Shipment,MotherHub_AMD-PalanpurHub_PLN,22.8978044,72.5902141,24.1743804,72.4089852,MotherHub_AMD,PalanpurHub_PLN,0,229
+Shipment,MotherHub_AMD-PorbandarHub_POR,22.8978044,72.5902141,21.6468447,69.6345955,MotherHub_AMD,PorbandarHub_POR,0,298
+Shipment,MotherHub_AMD-SilvassaHub_AMD,22.8978044,72.5902141,20.2665657,72.9877351,MotherHub_AMD,SilvassaHub_AMD,0,114
+Shipment,MotherHub_AMD-SurendraNagarHub_SDR,22.8978044,72.5902141,22.7196472,71.6608486,MotherHub_AMD,SurendraNagarHub_SDR,0,79

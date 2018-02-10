@@ -1,0 +1,9 @@
+Type,Key,src_lat,src_long,dest_lat,dest_long,MH,DH/PH,readt_time,Load,delivery_time,LZ1Z2
+Shipment,MotherHub_BNL-Phase3NoidaHub_DEL,28.307599,76.882718,26.61786,77.33356,MotherHub_BNL,Phase3NoidaHub_DEL,21600,1639,118800,Z2
+Shipment,MotherHub_BNL-CityCenterHub_GWL,28.307599,76.882718,21.13735,80.247,MotherHub_BNL,CityCenterHub_GWL,21600,910,118800,Z3
+Shipment,MotherHub_BNL-DehradunHub_DED,28.307599,76.882718,30.30657,78.00573,MotherHub_BNL,DehradunHub_DED,21600,1428,118800,Z2
+Shipment,MotherHub_BNL-JammuHub_IXJ,28.307599,76.882718,32.66721,74.87167,MotherHub_BNL,JammuHub_IXJ,21600,1006,118800,Z2
+Shipment,MotherHub_BNL-JhansiHub_JHS,28.307599,76.882718,25.44843,78.56846,MotherHub_BNL,JhansiHub_JHS,21600,307,118800,Z2
+Shipment,MotherHub_BNL-PhagwaraHub_PGR,28.307599,76.882718,31.20092,75.77628,MotherHub_BNL,PhagwaraHub_PGR,21600,189,118800,Z2
+Shipment,MotherHub_BNL-RudrapurHub_RDP,28.307599,76.882718,28.98751,79.41412,MotherHub_BNL,RudrapurHub_RDP,21600,356,118800,Z2
+Shipment,MotherHub_BNL-SrinagarHub_SRG,28.307599,76.882718,34.05739,74.82494,MotherHub_BNL,SrinagarHub_SRG,21600,185,118800,Z3

@@ -1,0 +1,7 @@
+type,id,lat,long,vehicleType,capacity,fixedCost,variableCost,Src,connectionTime,speed
+truck,MotherHub_MED_22FT_A,17.580668,78.469767,22FT_A,300,800,25,MotherHub_MED,30,300
+truck,MotherHub_MED_22FT_B,17.580668,78.469767,22FT_B,300,800,25,MotherHub_MED,30,300
+truck,MotherHub_MED_24FT_A,17.580668,78.469767,24FT_A,400,1000,30,MotherHub_MED,30,400
+truck,MotherHub_MED_32FT_A,17.580668,78.469767,32FT_A,700,1800,36,MotherHub_MED,30,500
+Airplane,MotherHub_MED_Airplane_A,17.580668,78.469767,Airplane_A,300,2000,100,MotherHub_MED,30,2000
+Airplane,MotherHub_MED_Airplane_B,17.580668,78.469767,Airplane_B,100,3000,100,MotherHub_MED,30,2000

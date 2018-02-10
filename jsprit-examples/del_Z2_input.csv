@@ -1,0 +1,7 @@
+Type,Key,src_lat,src_long,dest_lat,dest_long,MH,DH/PH,readt_time,Load,delivery_time,LZ1Z2
+Shipment,MotherHub_PTI-Phase3NoidaHub_DEL,28.29417,76.8558,26.61786,77.33356,MotherHub_PTI,Phase3NoidaHub_DEL,0,1639,32400,Z2
+Shipment,MotherHub_PTI-DehradunHub_DED,28.29417,76.8558,30.30657,78.00573,MotherHub_PTI,DehradunHub_DED,0,1428,32400,Z2
+Shipment,MotherHub_PTI-JammuHub_IXJ,28.29417,76.8558,32.66721,74.87167,MotherHub_PTI,JammuHub_IXJ,0,1006,32400,Z2
+Shipment,MotherHub_PTI-JhansiHub_JHS,28.29417,76.8558,25.44843,78.56846,MotherHub_PTI,JhansiHub_JHS,0,307,32400,Z2
+Shipment,MotherHub_PTI-PhagwaraHub_PGR,28.29417,76.8558,31.20092,75.77628,MotherHub_PTI,PhagwaraHub_PGR,0,189,32400,Z2
+Shipment,MotherHub_PTI-RudrapurHub_RDP,28.29417,76.8558,28.98751,79.41412,MotherHub_PTI,RudrapurHub_RDP,0,356,32400,Z2

@@ -1,0 +1,37 @@
+ route   , vehicle              , activity              , job             , arrTime         , endTime         , costs           
+,,,,,,
+1, 2-MotherHub_JAI-14   , start                 , -               , undef           ,0,0
+1, 2-MotherHub_JAI-14   , pickupShipment        , MotherHub_JAI-JodhpurHub_JDH ,0,0,0
+1, 2-MotherHub_JAI-14   , pickupShipment        , MotherHub_JAI-AjmerHub_AJM ,0,0,0
+1, 2-MotherHub_JAI-14   , pickupShipment        , MotherHub_JAI-SriGanganagarHub_SGN ,0,0,0
+1, 2-MotherHub_JAI-14   , pickupShipment        , MotherHub_JAI-BikanerHub_BKB ,0,0,0
+1, 2-MotherHub_JAI-14   , deliverShipment       , MotherHub_JAI-AjmerHub_AJM ,9927,9927,4103614
+1, 2-MotherHub_JAI-14   , deliverShipment       , MotherHub_JAI-JodhpurHub_JDH ,23069,23069,9536286
+1, 2-MotherHub_JAI-14   , deliverShipment       , MotherHub_JAI-BikanerHub_BKB ,38717,38717,16004881
+1, 2-MotherHub_JAI-14   , deliverShipment       , MotherHub_JAI-SriGanganagarHub_SGN ,55856,55856,23089436
+1, 2-MotherHub_JAI-14   , end                   , -               ,55856, undef           ,23089436
+,,,,,,
+2, 5-MotherHub_JAI-14   , start                 , -               , undef           ,0,0
+2, 5-MotherHub_JAI-14   , pickupShipment        , MotherHub_JAI-AlwarHub_ALW ,0,0,0
+2, 5-MotherHub_JAI-14   , pickupShipment        , MotherHub_JAI-BharatpurHub_BTP ,0,0,0
+2, 5-MotherHub_JAI-14   , deliverShipment       , MotherHub_JAI-AlwarHub_ALW ,8523,8523,3523175
+2, 5-MotherHub_JAI-14   , deliverShipment       , MotherHub_JAI-BharatpurHub_BTP ,15935,15935,6587153
+2, 5-MotherHub_JAI-14   , end                   , -               ,15935, undef           ,6587153
+,,,,,,
+3, 6-MotherHub_JAI-14   , start                 , -               , undef           ,0,0
+3, 6-MotherHub_JAI-14   , pickupShipment        , MotherHub_JAI-SikarHub_SIK ,0,0,0
+3, 6-MotherHub_JAI-14   , pickupShipment        , MotherHub_JAI-JhunjhunuHub_JNJ ,0,0,0
+3, 6-MotherHub_JAI-14   , pickupShipment        , MotherHub_JAI-PilaniHub_PIL ,0,0,0
+3, 6-MotherHub_JAI-14   , deliverShipment       , MotherHub_JAI-SikarHub_SIK ,7480,7480,3091862
+3, 6-MotherHub_JAI-14   , deliverShipment       , MotherHub_JAI-JhunjhunuHub_JNJ ,12401,12401,5126297
+3, 6-MotherHub_JAI-14   , deliverShipment       , MotherHub_JAI-PilaniHub_PIL ,15085,15085,6235727
+3, 6-MotherHub_JAI-14   , end                   , -               ,15085, undef           ,6235727
+,,,,,,
+4, 9-MotherHub_JAI-14   , start                 , -               , undef           ,0,0
+4, 9-MotherHub_JAI-14   , pickupShipment        , MotherHub_JAI-KotaHub_KTU ,0,0,0
+4, 9-MotherHub_JAI-14   , pickupShipment        , MotherHub_JAI-BhilwaraHub_BLW ,0,0,0
+4, 9-MotherHub_JAI-14   , pickupShipment        , MotherHub_JAI-UdaipurHub_UDR ,0,0,0
+4, 9-MotherHub_JAI-14   , deliverShipment       , MotherHub_JAI-KotaHub_KTU ,15999,15999,6613744
+4, 9-MotherHub_JAI-14   , deliverShipment       , MotherHub_JAI-BhilwaraHub_BLW ,25944,25944,10724776
+4, 9-MotherHub_JAI-14   , deliverShipment       , MotherHub_JAI-UdaipurHub_UDR ,35773,35773,14787796
+4, 9-MotherHub_JAI-14   , end                   , -               ,35773, undef           ,14787796
